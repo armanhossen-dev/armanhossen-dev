@@ -1,5 +1,5 @@
 # ✨ About Me:
-🛠️ I’m currently working on web development projects and learning Python-based AI.<br>🤝 I’m looking to collaborate on interesting software or AI projects.<br>🙏 I’m looking for help with learning advanced AI concepts and tools.<br>✅I have learned C, C++, HTML and  CSS.<br>🌱 I’m currently learning Java, Python, JavaScript, and Data Structures.<br>💬 Ask me about programming, web development, or robotics!<br>⚡ Fun fact: I enjoy coding challenges and am a fan of sci-fi movies like Dune!
+🛠️ I’m currently working on web development projects and learning Java.<br>🤝 I’m looking to collaborate on interesting software or AI projects.<br>🙏 I’m looking for help with learning advanced AI concepts and tools.<br>✅ I have learned C, C++, HTML and  CSS.<br>🌱 I’m currently learning Java, Python, JavaScript, and Data Structures.<br>💬 Ask me about programming, web development, or robotics!<br>⚡ Fun fact: I enjoy coding challenges and am a fan of sci-fi movies like Dune!
 
 
 ## 🌐 Socials:
