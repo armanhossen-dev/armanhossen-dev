@@ -7,7 +7,7 @@
 
 
 # 💻 Languages, Frameworks & Tools 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,pycharm,java,idea,vscode,js,html,css,figma,ps,au,pr,github,gmail,linux,windows,apple,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,pycharm,java,idea,vscode,js,html,css,figma,ps,au,pr,github,gmail,linux,windows,apple,powershell)]
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
 
