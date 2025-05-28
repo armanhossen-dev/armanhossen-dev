@@ -7,7 +7,7 @@
 
 
 # 💻 TOOLS
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,pycharm,java,idea,vscode,js,html,css,figma,ps,au,pr,github,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,pycharm,java,idea,vscode,js,html,css,figma,ps,au,pr,github)](https://skillicons.dev)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
 
