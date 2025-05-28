@@ -8,22 +8,7 @@
 
 # 💻 Languages, Frameworks & Tools 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,pycharm,java,idea,vscode,js,html,css,figma,ps,au,pr,github,linux,windows,apple,powershell)
-[!vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-
-![](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)
-
-![](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
-
-![](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
-
-![](https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white)
-
-![](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)
-
-![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
-
-![](https://img.shields.io/badge/DuckDuckGo-FF5722?logo=duckduckgo&logoColor=white)Begin!
-
+![](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)![](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)![](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)![](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)![](https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white)![](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)![](https://img.shields.io/badge/DuckDuckGo-FF5722?logo=duckduckgo&logoColor=white)
 
 
 # 📊 GitHub Stats:
