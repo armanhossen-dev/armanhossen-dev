@@ -14,5 +14,3 @@
 
 ## CodeForces 
 ![](https://raw.githubusercontent.com/armanhossen-dev/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-
-![](https://komarev.com/ghpvc/?username=armanhossen-dev)
