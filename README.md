@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=armanhossen-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## CodeForces 
-![](https://raw.githubusercontent.com/armanhossen-dev/cf-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/armanhossen-dev/cf-stats/main/output/rating.svg)
+   ![](https://raw.githubusercontent.com/armanhossen-dev/ArmanHossenRipon/main/output/max_rating.svg)
+   ![](https://raw.githubusercontent.com/armanhossen-dev/ArmanHossenRipon/main/output/rating.svg)
 
