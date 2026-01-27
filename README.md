@@ -1,7 +1,5 @@
 # ✨ About Me 😎
-## 👋 Hi, I’m Arman
-
-🎓 **CSE student** passionate about building, learning, and problem-solving  
+🎓 *Hi, I’m Arman* — a CSE student passionate about building and learning   
 🛠️ Working on **web development projects** while expanding skills in **JavaScript & Python**  
 🌱 Currently focused on **DSA, backend fundamentals, and AI/ML foundations**  
 ✅ Hands-on experience with **C, C++, Java, HTML, CSS**  
