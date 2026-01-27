@@ -1,5 +1,13 @@
 # ✨ About Me 😎
-🛠️ I’m currently working on web development projects and learning JS, Python.<br>👋🏻 I’m looking for help with learning advanced AI concepts and tools.<br>✅ I have learned C, C++, Java, HTML and  CSS.<br>🌱 I’m currently learning Python, JavaScript, and DSA.<br>💬 Ask me about programming, web development, or AI/ML!<br>⚡ Fun fact: I enjoy coding challenges and am a fan of sci-fi and hacker movies like Iron Man, The Matrix, and Hackers!
+## 👋 Hi, I’m Arman
+
+🎓 **CSE student** passionate about building, learning, and problem-solving  
+🛠️ Working on **web development projects** while expanding skills in **JavaScript & Python**  
+🌱 Currently focused on **DSA, backend fundamentals, and AI/ML foundations**  
+✅ Hands-on experience with **C, C++, Java, HTML, CSS**  
+🤝 Actively exploring **advanced AI concepts, tools, and workflows**  
+💬 Ask me about **programming, web development, or getting started with AI**
+<br>⚡ Fun fact: I enjoy coding challenges and am a fan of sci-fi and hacker movies like Iron Man, The Matrix, and Hackers!
 
 ## 💻 Languages, Frameworks & Tools 
 [![](https://skillicons.dev/icons?i=c,cpp,py,pycharm,java,idea,vscode,js,html,css,ps,au,pr,github,linux,windows,apple,powershell&perline=9)](https://github.com/armanhossen-dev)
