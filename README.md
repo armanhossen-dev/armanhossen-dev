@@ -9,7 +9,7 @@
 ⚡ Fun fact: I enjoy coding challenges and love sci-fi & hacker movies like *Iron Man*, *The Matrix*, and *Hackers*
 
 ## 💻 Languages, Frameworks & Tools 
-[![](https://skillicons.dev/icons?i=c,cpp,py,html,css,java,js,vscode,pycharm,idea,github,windows,apple,powershell,blender,ps,pr,au,ai,&perline=8)](https://github.com/armanhossen-dev)
+[![](https://skillicons.dev/icons?i=c,cpp,py,html,css,java,js,figma,vscode,pycharm,idea,github,windows,apple,powershell,blender,ps,pr,au,ai,&perline=9)](https://github.com/armanhossen-dev)
 
 [![](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)![](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)![](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)![](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)![](https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white)![](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)![](https://img.shields.io/badge/DuckDuckGo-FF5722?logo=duckduckgo&logoColor=white)](https://github.com/armanhossen-dev)
 
