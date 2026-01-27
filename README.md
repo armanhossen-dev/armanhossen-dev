@@ -1,5 +1,5 @@
 # ✨ About Me 😎
-🛠️ I’m currently working on web development projects and learning Java.<br>🤝 I’m looking to collaborate on interesting software or AI projects.<br>🙏 I’m looking for help with learning advanced AI concepts and tools.<br>✅ I have learned C, C++, HTML and  CSS.<br>🌱 I’m currently learning Java, Python, JavaScript, and Data Structures.<br>💬 Ask me about programming, web development, or robotics!<br>⚡ Fun fact: I enjoy coding challenges and am a fan of sci-fi and hacker movies like Iron Man, The Matrix, and Hackers!
+🛠️ I’m currently working on web development projects and learning JS, Python.<br>👋🏻 I’m looking for help with learning advanced AI concepts and tools.<br>✅ I have learned C, C++, Java, HTML and  CSS.<br>🌱 I’m currently learning Python, JavaScript, and DSA.<br>💬 Ask me about programming, web development, or AI/ML!<br>⚡ Fun fact: I enjoy coding challenges and am a fan of sci-fi and hacker movies like Iron Man, The Matrix, and Hackers!
 
 ## 💻 Languages, Frameworks & Tools 
 [![](https://skillicons.dev/icons?i=c,cpp,py,pycharm,java,idea,vscode,js,html,css,ps,au,pr,github,linux,windows,apple,powershell&perline=9)](https://github.com/armanhossen-dev)
