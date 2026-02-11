@@ -18,4 +18,20 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=armanhossen-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=armanhossen-dev&show_icons=true&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api?username=armanhossen-dev&show_icons=true&theme=transparent)
+
+## 📊 GitHub Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=armanhossen-dev&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=armanhossen-dev&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=armanhossen-dev&theme=github_dark)
+
+## 🔥 GitHub Streak
+
+![](https://streak-stats.demolab.com?user=armanhossen-dev&theme=dark&hide_border=false)
+
