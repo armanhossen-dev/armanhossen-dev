@@ -35,3 +35,19 @@
 
 ![](https://streak-stats.demolab.com?user=armanhossen-dev&theme=dark&hide_border=false)
 
+
+
+## 🚀 About Me
+
+- 💻 CSE Student
+- 🌱 Learning Full Stack Development
+- ⚡ Interested in SaaS & Scalable Systems
+- 🎯 Goal: FAANG / Global Tech Company
+
+## 📌 Languages & Tools
+
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+
