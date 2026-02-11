@@ -1,13 +1,12 @@
 # ✨ About Me 😎
 
-🎓 **Hi, I’m Arman** — a CSE student driven by curiosity and continuous learning  
-🛠️ Building **web development projects** while strengthening skills in **JavaScript & Python**  
-🌱 Currently focused on **DSA, backend fundamentals, and AI/ML foundations**  
-✅ Hands-on experience with **C, C++, Java, HTML, CSS**  
-🤝 Exploring **advanced AI concepts, tools, and modern workflows**  
-💬 Happy to discuss **programming, web development, and AI fundamentals**  
-⚡ Interested in SaaS & Scalable Systems
-😎 Fun fact: I enjoy coding challenges and love sci-fi & hacker movies like *Iron Man*, *The Matrix*, and *Hackers*
+🎓 Hi, I’m ##Arman## — a CSE student passionate about learning  
+🛠️ Building web projects & improving JavaScript & Python skills  
+🌱 Focused on DSA, backend fundamentals & AI/ML basics  
+✅ Hands-on with C, C++, Java, HTML, CSS, Tailwind CSS  
+🤝 Exploring modern AI tools & workflows  
+⚡ Interested in SaaS & scalable systems | Coding challenges & sci-fi fan
+
 
 ## 💻 Languages, Frameworks & Tools 
 [![](https://skillicons.dev/icons?i=c,cpp,py,html,css,java,js,github,vscode,pycharm,idea,eclipse,windows,apple,blender,figma,ps,pr,au,ai,&perline=8)](https://github.com/armanhossen-dev)
