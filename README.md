@@ -6,6 +6,7 @@
 ✅ Hands-on experience with **C, C++, Java, HTML, CSS**  
 🤝 Exploring **advanced AI concepts, tools, and modern workflows**  
 💬 Happy to discuss **programming, web development, and AI fundamentals**  
+⚡ Interested in SaaS & Scalable Systems
 ⚡ Fun fact: I enjoy coding challenges and love sci-fi & hacker movies like *Iron Man*, *The Matrix*, and *Hackers*
 
 ## 💻 Languages, Frameworks & Tools 
@@ -19,17 +20,10 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=armanhossen-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=armanhossen-dev&show_icons=true&theme=transparent)
 
 ## 📊 GitHub Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=armanhossen-dev&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=armanhossen-dev&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=armanhossen-dev&theme=github_dark)
 
 ## 🔥 GitHub Streak
 
@@ -37,17 +31,9 @@
 
 
 
-## 🚀 About Me
 
-- 💻 CSE Student
-- 🌱 Learning Full Stack Development
-- ⚡ Interested in SaaS & Scalable Systems
-- 🎯 Goal: FAANG / Global Tech Company
 
-## 📌 Languages & Tools
+## 📈 Contribution Graph
 
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![](https://github-readme-activity-graph.vercel.app/graph?username=armanhossen-dev&theme=react-dark)
 
