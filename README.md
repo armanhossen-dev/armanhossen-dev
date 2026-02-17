@@ -21,5 +21,6 @@
 <!-- 
 ## 📊 GitHub Stats
 -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=armanhossen-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## GitHub Activity
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=armanhossen-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
