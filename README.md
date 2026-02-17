@@ -22,16 +22,10 @@
 ## 📊 GitHub Stats
 -->
 ## GitHub Activity
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=github_dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=armanhossen-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=armanhossen-dev&theme=github_dark) [](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=armanhossen-dev&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=armanhossen-dev&theme=dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=armanhossen-dev&theme=dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=armanhossen-dev&theme=dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=armanhossen-dev&theme=dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=armanhossen-dev&theme=github_dark) [](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=armanhossen-dev&theme=github_dark&utcOffset=8)
