@@ -1,5 +1,5 @@
 # ✨ About Me 😎
-![](src="https://www.canva.com/design/DAG75j8SUPQ/8zAdPVNEuzbCglMqZXbiNw/view)
+![](https://www.canva.com/design/DAG75j8SUPQ/8zAdPVNEuzbCglMqZXbiNw/view)
 
 🎓 Hi, I’m **Arman** — a CSE student passionate about learning  
 🛠️ Building web projects & improving JavaScript & Python skills  
