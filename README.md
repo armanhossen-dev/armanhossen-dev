@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/armanhossen-dev/pms/refs/heads/main/s.png?token=GHSAT0AAAAAADUN23252S5EVIGG7T7TW2CE2M2KIGA)](https://github.com/armanhossen-dev)
+[![Arman Hossen Cover](https://github.com/armanhossen-dev/profile-assets/blob/main/cover/ArmanHossenCover.png)](https://github.com/armanhossen-dev)
 
 # ✨ About Me 😎
 🎓 Hi, I’m **Arman** — a CSE student passionate about learning  
