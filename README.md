@@ -1,5 +1,6 @@
 # ✨ About Me 😎
-![](https://www.canva.com/design/DAG75j8SUPQ/8zAdPVNEuzbCglMqZXbiNw/view)
+
+![](https://raw.githubusercontent.com/armanhossen-dev/pms/refs/heads/main/s.png?token=GHSAT0AAAAAADUN23252S5EVIGG7T7TW2CE2M2KIGA)
 
 🎓 Hi, I’m **Arman** — a CSE student passionate about learning  
 🛠️ Building web projects & improving JavaScript & Python skills  
