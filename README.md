@@ -1,4 +1,12 @@
 # ✨ About Me 😎
+<div style="position: relative; width: 100%; height: 0; padding-top: 30.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAG75j8SUPQ/8zAdPVNEuzbCglMqZXbiNw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAG75j8SUPQ&#x2F;8zAdPVNEuzbCglMqZXbiNw&#x2F;view?utm_content=DAG75j8SUPQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Arman Hossen Ripon linkedin cover</a> by Arman Hossen
 
 🎓 Hi, I’m **Arman** — a CSE student passionate about learning  
 🛠️ Building web projects & improving JavaScript & Python skills  
