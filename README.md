@@ -1,4 +1,4 @@
-[![Arman Hossen Cover](https://github.com/armanhossen-dev/profile-assets/blob/main/cover/ArmanHossenCover.png)](https://github.com/armanhossen-dev)
+[![Arman Hossen Cover](https://github.com/armanhossen-dev/profile-assets/blob/main/cover/Arman%20Hossen-Ripon-linkedin-cover.png)](https://github.com/armanhossen-dev)
 
 # ✨ About Me 😎
 🎓 Hi, I’m **Arman** — a CSE student passionate about learning  
