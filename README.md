@@ -27,5 +27,4 @@
 [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=armanhossen-dev&theme=github_dark)](https://github.com/armanhossen-dev) [![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=armanhossen-dev&theme=github_dark&utcOffset=8)](https://github.com/armanhossen-dev)
 
 > Do not wait until you have the right skills to start your project. Your project will teach you the skill.
-> Do not wait until you have confidence to do what you want. The confidence will come when you start doing it well.
-> - Sahil Gaba 
+> Do not wait until you have confidence to do what you want. The confidence will come when you start doing it well. - Sahil Gaba 
