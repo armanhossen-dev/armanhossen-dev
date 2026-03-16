@@ -3,7 +3,7 @@
 -->
 
 # ✨ About Me 😎
-🎓 Hi, I’m **Arman** — a CSE student passionate about learning and Coding!  
+🎓 Hi, I’m **Arman** — I build, learn, and grow through code!
 🛠️ Building web projects & improving JavaScript & Python skills  
 🌱 Focused on DSA, backend fundamentals & AI/ML basics  
 ✅ Hands-on with C, C++, Java, HTML, CSS, Tailwind CSS  
