@@ -13,8 +13,8 @@
 <!--
 [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=armanhossen-dev&theme=github_dark)](https://github.com/armanhossen-dev) [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=armanhossen-dev&theme=github_dark)](https://github.com/armanhossen-dev)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=armanhossen-dev&theme=github_dark&utcOffset=8)](https://github.com/armanhossen-dev)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=github_dark)](https://github.com/armanhossen-dev)
 -->
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=github_dark)](https://github.com/armanhossen-dev)
 
 
 ## 💻 Languages, Frameworks & Tools 
