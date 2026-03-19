@@ -1,10 +1,10 @@
 # ✨ About Me 😎
-🎓 Hi, I’m **Arman** — I learn, build and grow through coding. 
-🛠️ Building web projects & improving JavaScript & Python skills  
-🌱 Focused on DSA, backend fundamentals & AI/ML basics 
-✅ Hands-on with C, C++, Java, HTML, CSS, Tailwind CSS 
-🤝 Exploring modern AI tools & workflows 
-⚡ Interested in SaaS & scalable systems | Coding & sci-fi tech 
+🎓 Hi, I’m **Arman** — I learn, build and grow through coding.   
+🛠️ Building web projects & improving JavaScript & Python skills   
+🌱 Focused on DSA, backend fundamentals & AI/ML basics  
+✅ Hands-on with C, C++, Java, HTML, CSS, Tailwind CSS  
+🤝 Exploring modern AI tools & workflows   
+⚡ Interested in SaaS & scalable systems | Coding & sci-fi tech   
 
 ## GitHub Activity
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=armanhossen-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/armanhossen-dev)
