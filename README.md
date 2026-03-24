@@ -22,3 +22,4 @@
 -->
 > Do not wait until you have the right skills to start your project. Your project will teach you the skill. <br/>
 > Do not wait until you have confidence to do what you want. The confidence will come when you start doing it well. - Sahil Gaba
+> Coding is less about syntax and more about how long you can stay curious.
