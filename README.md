@@ -8,9 +8,9 @@
 
 ## GitHub Activity
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=armanhossen-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/armanhossen-dev)
-<!--
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=github_dark)](https://github.com/armanhossen-dev)
--->
+
+
 ## 💻 Languages, Frameworks & Tools 
 [![](https://skillicons.dev/icons?i=c,cpp,py,html,css,tailwind,java,js,php,github,vscode,pycharm,idea,eclipse,windows,apple,blender,figma,ps,pr,au,ai&perline=11)](https://github.com/armanhossen-dev)
 
