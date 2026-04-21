@@ -1,4 +1,4 @@
-# ✨ About Me 😎
+# ✨ About Me ☁️
 🎓 Hi, I’m **Arman** — I learn, build and grow through coding.   
 🛠️ Building web projects & improving JavaScript & Python skills   
 🌱 Focused on DSA, backend fundamentals & AI/ML basics  
