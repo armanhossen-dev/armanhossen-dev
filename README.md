@@ -1,5 +1,5 @@
 # <AboutMe />
-👋 Hi, I'm **Arman** — a developer who learns, builds, and grows through code.
+👋 Hi, I'm **Arman** — a developer who learns, builds, and grows through code.   
 🎓 **CSE Student** at Daffodil International University  
 🛠️ Building web projects with **JavaScript, React, Node.js & Python**  
 🌱 Focused on **DSA, Backend Development & AI/ML fundamentals**  
