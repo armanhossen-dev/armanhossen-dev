@@ -1,11 +1,21 @@
-# ✨ About Me!
 # <AboutMe />
+👋 Hi, I'm **Arman** — a developer who learns, builds, and grows through code.
+🎓 **CSE Student** at Daffodil International University  
+🛠️ Building web projects with **JavaScript, React, Node.js & Python**  
+🌱 Focused on **DSA, Backend Development & AI/ML fundamentals**  
+✅ Hands-on with **C, C++, Java, PHP, MySQL, Tailwind CSS**  
+🤝 Exploring **modern AI tools & developer workflows**  
+⚡ Passionate about **SaaS, scalable systems & sci-fi tech**
+
+<!--
+# ✨ About Me!
 🎓 Hi, I’m **Arman** — I learn, build and grow through coding.   
 🛠️ Building web projects & improving JavaScript & Python skills   
 🌱 Focused on DSA, backend fundamentals & AI/ML basics  
 ✅ Hands-on with C, C++, Java, HTML, CSS, Tailwind CSS  
 🤝 Exploring modern AI tools & workflows   
 ⚡ Interested in SaaS & scalable systems | Coding & sci-fi tech   
+--->
 
 ## 💻 Languages, Frameworks & Tools 
 [![](https://skillicons.dev/icons?i=c,cpp,py,html,css,tailwind,java,js,php,github,vscode,pycharm,idea,eclipse,windows,apple,linux,blender,ps,pr,au,ai&perline=11)](https://github.com/armanhossen-dev)
