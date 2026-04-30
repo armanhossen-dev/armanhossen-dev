@@ -16,7 +16,6 @@
 ⚡ Interested in SaaS & scalable systems | Coding & sci-fi tech   
 --->
 
-
 ## Languages, Frameworks & Tools 
 [![](https://skillicons.dev/icons?i=c,cpp,py,html,css,tailwind,java,js,php,github,vscode,pycharm,idea,eclipse,windows,apple,linux,blender,ps,pr,au,ai&perline=11)](https://github.com/armanhossen-dev)
 
@@ -37,3 +36,4 @@
 > Do not wait until you have the right skills to start your project. Your project will teach you the skill. <br/>
 > Do not wait until you have confidence to do what you want. The confidence will come when you start doing it well. - Sahil Gaba
 > Coding is less about syntax and more about how long you can stay curious.
+> The more you focus, the faster you grow !
