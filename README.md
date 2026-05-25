@@ -30,6 +30,7 @@
 [![Arman Hossen Cover](https://github.com/armanhossen-dev/profile-assets/blob/main/cover/Arman%20Hossen-Ripon-linkedin-cover.png)](https://github.com/armanhossen-dev)
 -->
 
-> Do not wait until you have the right skills to start your project. Your project will teach you the skill. <br/>   
-> Do not wait until you have confidence to do what you want. The confidence will come when you start doing it well. - Sahil Gaba   
+> Do not wait until you have the right skills to start your project. Your project will teach you the skill. <br/>
+> Do not wait until you have confidence to do what you want. The confidence will come when you start doing it well. - Sahil Gab
+
 > The more you focus, the faster you grow !
