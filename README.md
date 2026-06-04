@@ -14,26 +14,13 @@
 
 > *Building software. Solving problems. Never stopping.*
 
-🎓 CS & Engineering · Daffodil International University
-🛠️ Full-stack tinkerer — JS, Python, C/C++, Java, PHP, MySQL, Tailwind
-☁️ Aspiring Cloud Engineer chasing scalable, cloud-native systems
-🤖 Exploring AI tools, automation & modern dev workflows
-⚡ Hooked on SaaS, distributed systems & sci-fi tech
+🎓 CS & Engineering · Daffodil International University   
+🛠️ Full-stack tinkerer — JS, Python, C/C++, Java, PHP, MySQL, Tailwind   
+☁️ Aspiring Cloud Engineer chasing scalable, cloud-native systems   
+🤖 Exploring AI tools, automation & modern dev workflows   
+⚡ Interested in SaaS, distributed systems & sci-fi tech   
 
 ---
-
-# Hi, I'm Arman 👋
-
-**CS & Engineering Student** · Daffodil International University 🇧🇩
-
----
-
-Passionate about building software and solving real problems. I work across the full stack and am currently diving deeper into backend systems, cloud infrastructure, and AI/ML.
-
-**Tech Stack**
-
-JavaScript · React · Node.js · Python · C/C++ · Java · PHP · MySQL · Tailwind CSS
-
 **Currently Focusing On**
 
 - Data Structures & Algorithms
