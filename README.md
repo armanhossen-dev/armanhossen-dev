@@ -5,6 +5,7 @@
 🌱 Focused on **DSA, Backend Development & AI/ML fundamentals**  
 ✅ Hands-on with **C, C++, Java, PHP, MySQL, Tailwind CSS, Python**  
 🤝 Exploring **modern AI tools & developer workflows**  
+☁️ **Cloud Engineering Enthusiast**   
 ⚡  Interested in **SaaS, scalable systems & sci-fi tech**
 
 ## Languages, Frameworks & Tools 
