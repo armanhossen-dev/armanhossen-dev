@@ -8,7 +8,7 @@
 ☁️ **Cloud Engineering Enthusiast**   
 ⚡  Interested in **SaaS, scalable systems & sci-fi tech**
 
---
+---
 
 # ✨ About Me
 
@@ -20,6 +20,31 @@ Hi, I'm **Arman** 🇧🇩
 ☁️ Aspiring **Cloud Engineer** with an interest in scalable, reliable, and modern cloud-native systems   
 🤝 Exploring **AI-powered developer tools, automation, and modern engineering workflows**   
 ⚡ Interested in **SaaS, scalable systems, distributed computing, and sci-fi technology**   
+
+
+---
+
+# Hi, I'm Arman 👋
+
+**CS & Engineering Student** · Daffodil International University 🇧🇩
+
+---
+
+Passionate about building software and solving real problems. I work across the full stack and am currently diving deeper into backend systems, cloud infrastructure, and AI/ML.
+
+**Tech Stack**
+
+JavaScript · React · Node.js · Python · C/C++ · Java · PHP · MySQL · Tailwind CSS
+
+**Currently Focusing On**
+
+- Data Structures & Algorithms
+- Backend & Cloud Engineering
+- AI/ML Fundamentals
+
+**Interests:** SaaS · Scalable Systems · Distributed Computing · Cloud-Native Architecture
+
+
 
 ## Languages, Frameworks & Tools 
 [![](https://skillicons.dev/icons?i=c,cpp,py,html,css,tailwind,java,js,php,github,vscode,pycharm,idea,eclipse,windows,apple,linux,blender,ps,pr,au,ai&perline=11)](https://github.com/armanhossen-dev)
