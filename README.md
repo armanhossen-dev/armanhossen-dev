@@ -1,34 +1,14 @@
 # ✨ About Me 😎   
 🇧🇩 Hi, I’m **Arman** — a developer who `learns()`, `builds()` and `grows()` through code.     
-🎓 **CSE Student** at Daffodil International University  
+🎓 CS & Engineering · Daffodil International University   
 🛠️ Building web projects with **JavaScript, React, Node.js & Python**  
 🌱 Focused on **DSA, Backend Development & AI/ML fundamentals**  
-✅ Hands-on with **C, C++, Java, PHP, MySQL, Tailwind CSS, Python**  
-🤝 Exploring **modern AI tools & developer workflows**  
-☁️ **Cloud Engineering Enthusiast**   
-⚡  Interested in **SaaS, scalable systems & sci-fi tech**
-
----
-
-# Arman 🇧🇩
-
-> *Building software. Solving problems. Never stopping.*
-
-🎓 CS & Engineering · Daffodil International University   
-🛠️ Full-stack tinkerer — JS, Python, C/C++, Java, PHP, MySQL, Tailwind   
-☁️ Aspiring Cloud Engineer chasing scalable, cloud-native systems   
+✅ Hands-on with **C, C++, Java, PHP, MySQL, Tailwind, Python**  
 🤖 Exploring AI tools, automation & modern dev workflows   
+☁️ Aspiring Cloud Engineer chasing scalable, cloud-native systems   
 ⚡ Interested in SaaS, distributed systems & sci-fi tech   
-
 ---
-**Currently Focusing On**
-
-- Data Structures & Algorithms
-- Backend & Cloud Engineering
-- AI/ML Fundamentals
-
-**Interests:** SaaS · Scalable Systems · Distributed Computing · Cloud-Native Architecture
-
+-*Interests:** SaaS · Scalable Systems · Distributed Computing · Cloud-Native Architecture
 
 
 ## Languages, Frameworks & Tools 
@@ -42,6 +22,7 @@
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=github_dark)](https://github.com/armanhossen-dev)
 
 <!--
+> *Building software. Solving problems. Never stopping.*
 [![Arman Hossen Cover](https://githubcom/armanhossen-dev/profile-assets/blob/main/cover/Arman%20Hossen-Ripon-linkedin-cover.png)](https://github.com/armanhossen-dev)
 >1️⃣ Do not wait until you have the right skills to start your project. Your project will teach you the skill. <br/>
 >2️⃣ Do not wait until you have confidence to do what you want. The confidence will come when you start doing it well. - Sahil Gaba   
