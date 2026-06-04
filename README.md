@@ -10,17 +10,15 @@
 
 ---
 
-# ✨ About Me
+# Arman 🇧🇩
 
-Hi, I'm **Arman** 🇧🇩
-🎓 **B.Sc. in Computer Science & Engineering** at Daffodil International University   
-💻 Passionate about building software, solving problems, and continuously learning   
-🛠️ Working with **JavaScript, React, Node.js, Python, C, C++, Java, PHP, MySQL, and Tailwind CSS**   
-🌱 Currently focusing on **Data Structures & Algorithms, Backend Development, Cloud Engineering, and AI/ML Fundamentals**   
-☁️ Aspiring **Cloud Engineer** with an interest in scalable, reliable, and modern cloud-native systems   
-🤝 Exploring **AI-powered developer tools, automation, and modern engineering workflows**   
-⚡ Interested in **SaaS, scalable systems, distributed computing, and sci-fi technology**   
+> *Building software. Solving problems. Never stopping.*
 
+🎓 CS & Engineering · Daffodil International University
+🛠️ Full-stack tinkerer — JS, Python, C/C++, Java, PHP, MySQL, Tailwind
+☁️ Aspiring Cloud Engineer chasing scalable, cloud-native systems
+🤖 Exploring AI tools, automation & modern dev workflows
+⚡ Hooked on SaaS, distributed systems & sci-fi tech
 
 ---
 
