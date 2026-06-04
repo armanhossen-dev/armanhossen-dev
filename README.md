@@ -7,8 +7,10 @@
 🤖 Exploring AI tools, automation & modern dev workflows   
 ☁️ Aspiring Cloud Engineer chasing scalable, cloud-native systems   
 ⚡ Interested in SaaS, distributed systems & sci-fi tech   
+
 ---
--*Interests:** SaaS · Scalable Systems · Distributed Computing · Cloud-Native Architecture
+
+*Interests:** SaaS · Scalable Systems · Distributed Computing · Cloud-Native Architecture
 
 
 ## Languages, Frameworks & Tools 
