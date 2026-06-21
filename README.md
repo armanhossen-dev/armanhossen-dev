@@ -20,7 +20,6 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=armanhossen-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/armanhossen-dev)   
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=github_dark)](https://github.com/armanhossen-dev)
 
-
 <!--
 > *Building software. Solving problems. Never stopping.*
 [![Arman Hossen Cover](https://githubcom/armanhossen-dev/profile-assets/blob/main/cover/Arman%20Hossen-Ripon-linkedin-cover.png)](https://github.com/armanhossen-dev)
@@ -28,6 +27,4 @@
 >2️⃣ Do not wait until you have confidence to do what you want. The confidence will come when you start doing it well. - Sahil Gaba   
 -->
 > The more you focus, the faster you grow !
-
-> “You'll lose it, if you talk about it”
-― Ernest Hemingway, The Sun Also Rises
+> “You'll lose it, if you talk about it” ― Ernest Hemingway, The Sun Also Rises
