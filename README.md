@@ -26,5 +26,5 @@
 >1️⃣ Do not wait until you have the right skills to start your project. Your project will teach you the skill. <br/>
 >2️⃣ Do not wait until you have confidence to do what you want. The confidence will come when you start doing it well. - Sahil Gaba   
 -->
-> The more you focus, the faster you grow !
+> The more you focus, the faster you grow !   
 > “You'll lose it, if you talk about it” ― Ernest Hemingway, The Sun Also Rises
