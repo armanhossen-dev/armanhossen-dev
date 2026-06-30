@@ -16,6 +16,7 @@
 
 ## GitHub Activity   
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=armanhossen-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/armanhossen-dev)   
+
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=github_dark)](https://github.com/armanhossen-dev)
 
 ## My Project 
@@ -32,6 +33,8 @@
 
 ## Competitive Programming ❤️‍🩹
 [Codeforces](https://codeforces.com/profile/ArmanHossenRipon) · [LeetCode](https://leetcode.com/ArmanHossenRipon) · [AtCoder](https://atcoder.jp/users/TRYFINDME) · [Beecrowd](https://judge.beecrowd.com/en/profile/947888) · [CodeChef](https://www.codechef.com/users/armanhossencs) · [Toph](https://toph.co/u/Arman_Hossen241)
+
+<br/>
 
 <div align="center">
   
