@@ -28,7 +28,7 @@
 | **3D Web** — CSS 3D experiment | Experiment / Demo | HTML, CSS | [Live](https://ahrn.vercel.app) | [Code](https://github.com/armanhossen-dev/3D-WEB) |
 | **AHRN Portfolio** — personal site | Portfolio | HTML, CSS, JS | [Live](https://www.armanhossen.is-a.dev) | |
 | **Asha Bank** — DBMS banking app | Full-Stack / Team Project | PHP, MySQL, JS | | [Code](https://github.com/armanhossen-dev/BMS) |
-| **StudentNest** — JavaFX housing app | Desktop App | Java, JavaFX | | [Code](https://github.com/armanhossen-dev/StudentNest) |
+| **StudentNest** — JavaFX housing app | Desktop App / Team Project | Java, JavaFX | | [Code](https://github.com/armanhossen-dev/StudentNest) |
 
 > The more you focus, the faster you grow !   
 
