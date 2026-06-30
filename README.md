@@ -19,7 +19,7 @@
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=github_dark)](https://github.com/armanhossen-dev)
 
 ## My Project
-| Project | Type | Stack | Links | Code |
+| Project | Category | Stack | Links | Code |
 |---|---|---|---|---|
 | **Fitness Chatbot** — AI fitness assistant | AI / Chatbot | HTML, CSS, Chatbase | [Live](https://fitnessbot.vercel.app) | [Code](https://github.com/armanhossen-dev/WEB2024) |
 | **UNLOCKEDSTUDIO** — digital comics platform | Web Platform | HTML, CSS, JS | [Live](https://unlockedstudio.vercel.app) | [Code](https://github.com/armanhossen-dev/ustudio-v2.0) |
