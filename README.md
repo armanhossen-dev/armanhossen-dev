@@ -18,14 +18,6 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=armanhossen-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/armanhossen-dev)   
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=github_dark)](https://github.com/armanhossen-dev)
 
-<!--
-> *Building software. Solving problems. Never stopping.*
-[![Arman Hossen Cover](https://githubcom/armanhossen-dev/profile-assets/blob/main/cover/Arman%20Hossen-Ripon-linkedin-cover.png)](https://github.com/armanhossen-dev)
->1️⃣ Do not wait until you have the right skills to start your project. Your project will teach you the skill. <br/>
->2️⃣ Do not wait until you have confidence to do what you want. The confidence will come when you start doing it well. - Sahil Gaba   
-> “You'll lose it, if you talk about it” ― Ernest Hemingway
--->
-
 | Project | Stack | Links | Code |
 |---|---|---|---|
 | **Fitness Chatbot** — AI fitness assistant | HTML, CSS, Chatbase | [Live](https://fitnessbot.vercel.app) | [Code](https://github.com/armanhossen-dev/WEB2024) |
@@ -38,3 +30,11 @@
 | **StudentNest** — JavaFX housing app | Java, JavaFX | | [Code](https://github.com/armanhossen-dev/StudentNest) |
 
 > The more you focus, the faster you grow !   
+
+<!--
+> *Building software. Solving problems. Never stopping.*
+[![Arman Hossen Cover](https://githubcom/armanhossen-dev/profile-assets/blob/main/cover/Arman%20Hossen-Ripon-linkedin-cover.png)](https://github.com/armanhossen-dev)
+>1️⃣ Do not wait until you have the right skills to start your project. Your project will teach you the skill. <br/>
+>2️⃣ Do not wait until you have confidence to do what you want. The confidence will come when you start doing it well. - Sahil Gaba   
+> “You'll lose it, if you talk about it” ― Ernest Hemingway
+-->
