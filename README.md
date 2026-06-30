@@ -19,16 +19,16 @@
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=github_dark)](https://github.com/armanhossen-dev)
 
 ## My Project
-| Project | Stack | Links | Code |
-|---|---|---|---|
-| **Fitness Chatbot** — AI fitness assistant | HTML, CSS, Chatbase | [Live](https://fitnessbot.vercel.app) | [Code](https://github.com/armanhossen-dev/WEB2024) |
-| **UNLOCKEDSTUDIO** — digital comics platform | HTML, CSS, JS | [Live](https://unlockedstudio.vercel.app) | [Code](https://github.com/armanhossen-dev/ustudio-v2.0) |
-| **Dark Time** — minimal glass clock app | HTML, CSS, JS | [Live](https://darktime.vercel.app) | [Code](https://github.com/armanhossen-dev/DarkTime) |
-| **Cloud Tasks** — simple task manager | HTML, CSS, JS | [Live](https://cloudtasks.vercel.app) | [Code](https://github.com/armanhossen-dev/To-Do-List) |
-| **3D Web** — CSS 3D experiment | HTML, CSS | [Live](https://ahrn.vercel.app) | [Code](https://github.com/armanhossen-dev/3D-WEB) |
-| **AHRN Portfolio** — personal site | HTML, CSS, JS | [Live](https://www.armanhossen.is-a.dev) |
-| **Asha Bank** — team DBMS banking app | PHP, MySQL, JS | | [Code](https://github.com/armanhossen-dev/BMS) |
-| **StudentNest** — JavaFX housing app | Java, JavaFX | | [Code](https://github.com/armanhossen-dev/StudentNest) |
+| Project | Type | Stack | Links | Code |
+|---|---|---|---|---|
+| **Fitness Chatbot** — AI fitness assistant | AI / Chatbot | HTML, CSS, Chatbase | [Live](https://fitnessbot.vercel.app) | [Code](https://github.com/armanhossen-dev/WEB2024) |
+| **UNLOCKEDSTUDIO** — digital comics platform | Web Platform | HTML, CSS, JS | [Live](https://unlockedstudio.vercel.app) | [Code](https://github.com/armanhossen-dev/ustudio-v2.0) |
+| **Dark Time** — minimal glass clock app | Web App | HTML, CSS, JS | [Live](https://darktime.vercel.app) | [Code](https://github.com/armanhossen-dev/DarkTime) |
+| **Cloud Tasks** — simple task manager | Productivity Tool | HTML, CSS, JS | [Live](https://cloudtasks.vercel.app) | [Code](https://github.com/armanhossen-dev/To-Do-List) |
+| **3D Web** — CSS 3D experiment | Experiment / Demo | HTML, CSS | [Live](https://ahrn.vercel.app) | [Code](https://github.com/armanhossen-dev/3D-WEB) |
+| **AHRN Portfolio** — personal site | Portfolio | HTML, CSS, JS | [Live](https://www.armanhossen.is-a.dev) | |
+| **Asha Bank** — team DBMS banking app | Full-Stack / Team Project | PHP, MySQL, JS | | [Code](https://github.com/armanhossen-dev/BMS) |
+| **StudentNest** — JavaFX housing app | Desktop App | Java, JavaFX | | [Code](https://github.com/armanhossen-dev/StudentNest) |
 
 > The more you focus, the faster you grow !   
 
