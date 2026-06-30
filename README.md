@@ -1,12 +1,12 @@
 # ✨ About Me 😎   
 🇧🇩 Hi, I’m **Arman** — a developer who `learns()`, `builds()` and `grows()` with code.     
-🎓 CS & Engineering · Daffodil International University   
+🎓 CS & Engineering · Daffodil International University → graduating **2028**    
 🛠️ Building web projects with **JavaScript, React, Node.js & Python**  
 🌱 Focused on **DSA, Backend Development & AI/ML fundamentals**  
 ✅ Hands-on with **C, C++, Java, PHP, MySQL, Tailwind, Python**  
 🤖 Exploring AI tools, automation & modern dev workflows   
 ☁️ Aspiring Cloud Engineer chasing scalable, cloud-native systems   
-⚡ Interested in SaaS, distributed systems & sci-fi tech   
+⚡  Exploring & **Interested** in SaaS products, distributed systems & sci-fi-inspired UI   
 
 ## Languages, Frameworks & Tools   
 [![](https://skillicons.dev/icons?i=c,cpp,py,html,css,tailwind,java,js,php,github,vscode,pycharm,idea,eclipse,windows,apple,linux,blender,ps,pr,au,ai&perline=11)](https://github.com/armanhossen-dev)
@@ -33,9 +33,15 @@
 ## Competitive Programming ❤️‍🩹
 [Codeforces](https://codeforces.com/profile/ArmanHossenRipon) · [LeetCode](https://leetcode.com/ArmanHossenRipon) · [AtCoder](https://atcoder.jp/users/TRYFINDME) · [Beecrowd](https://judge.beecrowd.com/en/profile/947888) · [CodeChef](https://www.codechef.com/users/armanhossencs) · [Toph](https://toph.co/u/Arman_Hossen241)
 
-> The more you focus, the faster you grow !   
+<div align="center">
+  
+### *The more you focus, the faster you grow.*   
+
+</div>
 
 <!--
+> The more you focus, the faster you grow !   
+
 > *Building software. Solving problems. Never stopping.*
 [![Arman Hossen Cover](https://githubcom/armanhossen-dev/profile-assets/blob/main/cover/Arman%20Hossen-Ripon-linkedin-cover.png)](https://github.com/armanhossen-dev)
 >1️⃣ Do not wait until you have the right skills to start your project. Your project will teach you the skill. <br/>
