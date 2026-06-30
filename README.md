@@ -26,7 +26,7 @@
 > “You'll lose it, if you talk about it” ― Ernest Hemingway
 -->
 
-| Project | Stack | Links |
+| Project | Stack | Links | Code |
 |---|---|---|---|
 | **Fitness Chatbot** — AI fitness assistant | HTML, CSS, Chatbase | [Live](https://fitnessbot.vercel.app) | [Code](https://github.com/armanhossen-dev/WEB2024) |
 | **UNLOCKEDSTUDIO** — digital comics platform | HTML, CSS, JS | [Live](https://unlockedstudio.vercel.app) | [Code](https://github.com/armanhossen-dev/ustudio-v2.0) |
