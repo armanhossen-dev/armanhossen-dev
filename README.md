@@ -32,7 +32,7 @@
 | **StudentNest** — JavaFX housing app | Desktop App / Team Project | Java, JavaFX | | [Code](https://github.com/armanhossen-dev/StudentNest) |
 
 ## Competitive Programming ❤️‍🩹
-[Codeforces](https://codeforces.com/profile/ArmanHossenRipon) · [LeetCode](https://leetcode.com/ArmanHossenRipon) · [AtCoder](https://atcoder.jp/users/TRYFINDME) · [Beecrowd](https://judge.beecrowd.com/en/profile/947888) · [CodeChef](https://www.codechef.com/users/armanhossencs) · [Toph](https://toph.co/u/Arman_Hossen241)
+[Codeforces](https://codeforces.com/profile/ArmanHossenRipon) | [LeetCode](https://leetcode.com/ArmanHossenRipon) | [AtCoder](https://atcoder.jp/users/TRYFINDME) | [Beecrowd](https://judge.beecrowd.com/en/profile/947888) | [CodeChef](https://www.codechef.com/users/armanhossencs) | [Toph](https://toph.co/u/Arman_Hossen241)
 
 <br/>
 
