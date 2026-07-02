@@ -34,18 +34,7 @@
 | **Asha Bank** — DBMS banking app | A | Full-Stack / Team Project | PHP, MySQL, JS | — | [Code](https://github.com/armanhossen-dev/BMS) |
 | **StudentNest** — JavaFX housing app | A | Desktop App / Team Project | Java, JavaFX | — | [Code](https://github.com/armanhossen-dev/StudentNest) |
 
-## My Project 
-A for Academic & S for Side Project
-| Project | Type | Category | Stack | Links | Code |
-|---|---|---|---|---|---|
-| **Fitness Chatbot** — AI fitness assistant | A |AI / Chatbot | HTML, CSS, Chatbase | [Live](https://fitnessbot.vercel.app) | [Code](https://github.com/armanhossen-dev/WEB2024) |
-| **UNLOCKEDSTUDIO** — digital comics platform | S | Web Platform | HTML, CSS, JS | [Live](https://unlockedstudio.vercel.app) | [Code](https://github.com/armanhossen-dev/ustudio-v2.0) |
-| **Dark Time** — minimal glass clock app | S | Web App | HTML, CSS, JS | [Live](https://darktime.vercel.app) | [Code](https://github.com/armanhossen-dev/DarkTime) |
-| **Cloud Tasks** — simple task manager | S |Productivity Tool | HTML, CSS, JS | [Live](https://cloudtasks.vercel.app) | [Code](https://github.com/armanhossen-dev/To-Do-List) |
-| **3D Web** — CSS 3D experiment | S | Experiment / Demo | HTML, CSS | [Live](https://ahrn.vercel.app) | [Code](https://github.com/armanhossen-dev/3D-WEB) |
-| **AHRN Portfolio** — personal site | S | Portfolio | HTML, CSS, JS | [Live](https://www.armanhossen.is-a.dev) | |
-| **Asha Bank** — DBMS banking app | A | Full-Stack / Team Project | PHP, MySQL, JS | | [Code](https://github.com/armanhossen-dev/BMS) |
-| **StudentNest** — JavaFX housing app | A | Desktop App / Team Project | Java, JavaFX | | [Code](https://github.com/armanhossen-dev/StudentNest) |
+<br/>
 
 ## Competitive Programming ❤️‍🩹
 | [Codeforces](https://codeforces.com/profile/ArmanHossenRipon) | [LeetCode](https://leetcode.com/ArmanHossenRipon) | [AtCoder](https://atcoder.jp/users/TRYFINDME) | [Beecrowd](https://judge.beecrowd.com/en/profile/947888) | [CodeChef](https://www.codechef.com/users/armanhossencs) | [Toph](https://toph.co/u/Arman_Hossen241) |   
