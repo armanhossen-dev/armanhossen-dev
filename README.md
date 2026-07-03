@@ -5,7 +5,6 @@
 🌱 Focused on **DSA, Backend Development & AI/ML fundamentals**  
 ✅ Hands-on with **C, C++, Java, PHP, MySQL, Tailwind, Python**  
 🤖 Exploring AI tools, automation & modern dev workflows   
-☁️ Aspiring Cloud Engineer chasing scalable, cloud-native systems   
 ⚡  Exploring & **Interested** in SaaS products, distributed systems & sci-fi-inspired UI   
 
 ## Languages, Frameworks & Tools   
@@ -51,11 +50,22 @@
 </div>
 
 <!--
-> The more you focus, the faster you grow !   
 
-> *Building software. Solving problems. Never stopping.*
-[![Arman Hossen Cover](https://githubcom/armanhossen-dev/profile-assets/blob/main/cover/Arman%20Hossen-Ripon-linkedin-cover.png)](https://github.com/armanhossen-dev)
->1️⃣ Do not wait until you have the right skills to start your project. Your project will teach you the skill. <br/>
->2️⃣ Do not wait until you have confidence to do what you want. The confidence will come when you start doing it well. - Sahil Gaba   
-> “You'll lose it, if you talk about it” ― Ernest Hemingway
+To the Lazy CSE Student
+
+You chose one of the hardest and most rewarding fields in the world.
+
+Every day you waste,
+someone in another country is solving algorithms,
+building AI,
+creating startups,
+and getting ready to compete for the same jobs you'll want after graduation.
+
+The world doesn't pay people for potential.
+It pays people for skills.
+
+Your degree will open the door.
+Your discipline decides whether you walk through it.
+
+> “You'll lose it, if you talk about it” 
 -->
