@@ -48,6 +48,15 @@
 
 </div>
 
+> **Read this slowly.**
+>
+> **Nobody is coming to build your future for you.**  
+> The life you want will be shaped by the hours you spend learning, building, and improving when no one is watching.
+>
+> **Remember:**  
+> Your current situation is **not** your final destination.  
+> Your next decision matters more than your last mistake.
+
 <!--
 To the Lazy CSE Student
 
@@ -67,9 +76,3 @@ Your discipline decides whether you walk through it.
 
 > “You'll lose it, if you talk about it” 
 -->   
- 
-#Read this slowly:   
-> Nobody is coming to build your future for you. The life you want will be written by the hours you spend learning when no one is watching.
-
-#And remember:    
-> Your current situation is not your final destination. Your next decision matters more than your last mistake.    
