@@ -33,6 +33,8 @@
 | **AHRN Portfolio** — personal site | S | Portfolio | HTML, CSS, JS | [Live](https://www.armanhossen.is-a.dev) | — |
 | **Asha Bank** — DBMS banking app | A | Full-Stack / Team Project | PHP, MySQL, JS | — | [Code](https://github.com/armanhossen-dev/BMS) |
 | **StudentNest** — JavaFX housing app | A | Desktop App / Team Project | Java, JavaFX | — | [Code](https://github.com/armanhossen-dev/StudentNest) |
+| **FreeDownload** — social media video downloader hub | S | Utility / Web Tool | HTML, CSS, JS | [Live](https://freedownload.vercel.app/) | [Code]() |
+| **Side Skills** — curated developer resources directory | S | Bookmark / Resource Hub | HTML, CSS, JS | [Live](https://side-skills.vercel.app/) | [Code]() |
 
 <br/>
 
