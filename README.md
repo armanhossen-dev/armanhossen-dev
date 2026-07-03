@@ -26,7 +26,7 @@
 | N | Project | Type | Category | Stack | Live | Code |
 |:---:|---|:---:|---|---|:---:|:---:|
 | 1 | **Fitness Chatbot** — AI fitness bot | A | AI / Chatbot | HTML, CSS, Chatbase | [Live](https://fitnessbot.vercel.app) | [Code](https://github.com/armanhossen-dev/WEB2024) |
-| 2 | **UNLOCKEDSTUDIO** — Comics, stories | S | Web Platform | HTML, CSS, JS | [Live](https://unlockedstudio.vercel.app) | [Code](https://github.com/armanhossen-dev/ustudio-v2.0) |
+| 2 | **UNLOCKEDSTUDIO** — Fiction | S | Web Platform | HTML, CSS, JS | [Live](https://unlockedstudio.vercel.app) | [Code](https://github.com/armanhossen-dev/ustudio-v2.0) |
 | 3 | **Dark Time** — Minimal glass clock app | S | Web App | HTML, CSS, JS | [Live](https://darktime.vercel.app) | [Code](https://github.com/armanhossen-dev/DarkTime) |
 | 4 | **Cloud Tasks** — Simple task manager | S | Productivity Tool | HTML, CSS, JS | [Live](https://cloudtasks.vercel.app) | [Code](https://github.com/armanhossen-dev/To-Do-List) |
 | 5 | **3D Web** — CSS 3D experiment | S | Experiment / Demo | HTML, CSS | [Live](https://ahrn.vercel.app) | [Code](https://github.com/armanhossen-dev/3D-WEB) |
