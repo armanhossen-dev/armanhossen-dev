@@ -49,7 +49,6 @@
 </div>
 
 <!--
-
 To the Lazy CSE Student
 
 You chose one of the hardest and most rewarding fields in the world.
@@ -67,9 +66,10 @@ Your degree will open the door.
 Your discipline decides whether you walk through it.
 
 > “You'll lose it, if you talk about it” 
--->
-
-#Read this slowly:
+-->   
+ 
+#Read this slowly:   
 > Nobody is coming to build your future for you. The life you want will be written by the hours you spend learning when no one is watching.
-#And remember:
-> Your current situation is not your final destination. Your next decision matters more than your last mistake.
+
+#And remember:    
+> Your current situation is not your final destination. Your next decision matters more than your last mistake.    
