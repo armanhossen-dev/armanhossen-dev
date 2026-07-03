@@ -24,7 +24,7 @@
 `A` Academic Project · `S` Side Project
 
 | N | Project | Type | Category | Stack | Live | Code |
-|:-:|---|:---:|---|---|:---:|:---:|
+|:---:|---|:---:|---|---|:---:|:---:|
 | 1 | **Fitness Chatbot** — AI fitness assistant | A | AI / Chatbot | HTML, CSS, Chatbase | [Live](https://fitnessbot.vercel.app) | [Code](https://github.com/armanhossen-dev/WEB2024) |
 | 2 | **UNLOCKEDSTUDIO** — digital comics platform | S | Web Platform | HTML, CSS, JS | [Live](https://unlockedstudio.vercel.app) | [Code](https://github.com/armanhossen-dev/ustudio-v2.0) |
 | 3 | **Dark Time** — minimal glass clock app | S | Web App | HTML, CSS, JS | [Live](https://darktime.vercel.app) | [Code](https://github.com/armanhossen-dev/DarkTime) |
