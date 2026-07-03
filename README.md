@@ -4,7 +4,6 @@
 🛠️ Building web projects with **JavaScript, React, Node.js & Python**  
 🌱 Focused on **DSA, Backend Development & AI/ML fundamentals**  
 ✅ Hands-on with **C, C++, Java, PHP, MySQL, Tailwind, Python**  
-🤖 Exploring AI tools, automation & modern dev workflows   
 ⚡  Exploring & **Interested** in SaaS products, distributed systems & sci-fi-inspired UI   
 
 ## Languages, Frameworks & Tools   
