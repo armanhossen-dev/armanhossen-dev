@@ -26,13 +26,13 @@
 | N | Project | Type | Category | Stack | Live | Code |
 |:---:|---|:---:|---|---|:---:|:---:|
 | 1 | **Fitness Chatbot** — AI fitness bot | A | AI / Chatbot | HTML, CSS, Chatbase | [Live](https://fitnessbot.vercel.app) | [Code](https://github.com/armanhossen-dev/WEB2024) |
-| 2 | **UNLOCKEDSTUDIO** — Fiction | S | Web Platform | HTML, CSS, JS | [Live](https://unlockedstudio.vercel.app) | [Code](https://github.com/armanhossen-dev/ustudio-v2.0) |
+| 2 | **UNLOCKEDSTUDIO** — Fiction shop | S | Web Platform | HTML, CSS, JS | [Live](https://unlockedstudio.vercel.app) | [Code](https://github.com/armanhossen-dev/ustudio-v2.0) |
 | 3 | **Dark Time** — Minimal Digital Clock | S | Web App | HTML, CSS, JS | [Live](https://darktime.vercel.app) | [Code](https://github.com/armanhossen-dev/DarkTime) |
-| 4 | **Cloud Tasks** — Simple task manager | S | Productivity Tool | HTML, CSS, JS | [Live](https://cloudtasks.vercel.app) | [Code](https://github.com/armanhossen-dev/To-Do-List) |
-| 5 | **3D Web** — CSS 3D experiment | S | Experiment / Demo | HTML, CSS | [Live](https://ahrn.vercel.app) | [Code](https://github.com/armanhossen-dev/3D-WEB) |
+| 4 | **Cloud Tasks** — Offline Task Manager | S | Productivity Tool | HTML, CSS, JS | [Live](https://cloudtasks.vercel.app) | [Code](https://github.com/armanhossen-dev/To-Do-List) |
+| 5 | **3D Web** — 3D experiment | S | Experiment / Demo | HTML, CSS | [Live](https://ahrn.vercel.app) | [Code](https://github.com/armanhossen-dev/3D-WEB) |
 | 6 | **AHRN Portfolio** — Personal site | S | Portfolio | HTML, CSS, JS | [Live](https://www.armanhossen.is-a.dev) | — |
-| 7 | **Asha Bank** — DBMS banking app | A | Full-Stack  | PHP, MySQL, JS | — | [Code](https://github.com/armanhossen-dev/BMS) |
-| 8 | **StudentNest** — JavaFX housing app | A | Desktop App | Java, JavaFX | — | [Code](https://github.com/armanhossen-dev/StudentNest) |
+| 7 | **Asha Bank** — Banking app | A | Full-Stack | PHP, MySQL, JS | — | [Code](https://github.com/armanhossen-dev/BMS) |
+| 8 | **StudentNest** — Housing app | A | Desktop App | Java, JavaFX | — | [Code](https://github.com/armanhossen-dev/StudentNest) |
 | 9 | **FreeDownload** — Video Downloader | S | Utility / Web Tool | HTML, CSS, JS | [Live](https://freedownload.vercel.app/) | [Code](https://github.com/armanhossen-dev/free-download) |
 | 10 | **Side Skills** — Tools, insights, assets | S | Bookmark / Resource Hub | HTML, CSS, JS | [Live](https://side-skills.vercel.app/) | — |
 
