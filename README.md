@@ -34,7 +34,7 @@
 | 7 | **Asha Bank** — DBMS banking app | A | Full-Stack  | PHP, MySQL, JS | — | [Code](https://github.com/armanhossen-dev/BMS) |
 | 8 | **StudentNest** — JavaFX housing app | A | Desktop App | Java, JavaFX | — | [Code](https://github.com/armanhossen-dev/StudentNest) |
 | 9 | **FreeDownload** — Video Downloader | S | Utility / Web Tool | HTML, CSS, JS | [Live](https://freedownload.vercel.app/) | [Code](https://github.com/armanhossen-dev/free-download) |
-| 10 | **Side Skills** — Tools, insights, and assets | S | Bookmark / Resource Hub | HTML, CSS, JS | [Live](https://side-skills.vercel.app/) | — |
+| 10 | **Side Skills** — Tools, insights, assets | S | Bookmark / Resource Hub | HTML, CSS, JS | [Live](https://side-skills.vercel.app/) | — |
 
 <br/>
 
