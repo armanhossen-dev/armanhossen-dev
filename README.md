@@ -19,6 +19,7 @@
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=github_dark)](https://github.com/armanhossen-dev)    
 
 
+
 ## Projects
 `A` Academic Project · `S` Side Project
 
@@ -35,7 +36,7 @@
 | 9 | **FreeDownload** — Video Utility | S | Utility / Web Tool | HTML, CSS, JS | [Live](https://freedownload.vercel.app/) | [Code](https://github.com/armanhossen-dev/free-download) |
 | 10 | **Side Skills** — Tools, insights, assets | S | Bookmark / Resource Hub | HTML, CSS, JS | [Live](https://side-skills.vercel.app/) | — |
 
-<br/>
+
 
 ## Competitive Programming ❤️‍🩹
 | [Codeforces](https://codeforces.com/profile/ArmanHossenRipon) | [LeetCode](https://leetcode.com/ArmanHossenRipon) | [AtCoder](https://atcoder.jp/users/TRYFINDME) | [Beecrowd](https://judge.beecrowd.com/en/profile/947888) | [CodeChef](https://www.codechef.com/users/armanhossencs) | [Toph](https://toph.co/u/Arman_Hossen241) |   
@@ -50,21 +51,12 @@
 </div>
 
 <!--
-To the Lazy CSE Student
-
 You chose one of the hardest and most rewarding fields in the world.
 
-Every day you waste,
-someone in another country is solving algorithms,
-building AI,
-creating startups,
-and getting ready to compete for the same jobs you'll want after graduation.
-
-The world doesn't pay people for potential.
-It pays people for skills.
-
+Every day you waste, while someone in another country is solving algorithms,
+building AI, creating startups, and getting ready to compete for the same jobs you'll want after graduation.
+The world doesn't pay people for potential. It pays people for skills.
 Your degree will open the door.
 Your discipline decides whether you walk through it.
-
 > “You'll lose it, if you talk about it” 
 -->   
