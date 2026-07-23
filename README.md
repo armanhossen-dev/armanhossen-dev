@@ -59,4 +59,25 @@ The world doesn't pay people for potential. It pays people for skills.
 Your degree will open the door.
 Your discipline decides whether you walk through it.
 > “You'll lose it, if you talk about it” 
+Don't trust luck. Trust hard work." 💼
+
+Luck may open a door, but hard work is what keeps you in the room.
+
+What we often don't see are the early mornings, the late nights, the sacrifices, and the years of consistency that happened long before anyone noticed.
+
+The truth is, luck comes and goes. Some opportunities appear unexpectedly, while others never arrive at all.
+
+But the skills you build, the habits you develop, and the effort you invest every day are things no one can take away from you.
+
+Hard work doesn't always give you immediate results, but it gives you something even more valuable growth.
+
+Every challenge teaches you something. Every setback makes you stronger.
+
+Instead of waiting for the perfect moment, become the person who is ready when that moment arrives.
+
+Keep learning. Keep improving. Keep showing up, even when no one is watching.
+
+Because in the end, luck might change your day, but hard work has the power to change your life.
+
+
 -->   
