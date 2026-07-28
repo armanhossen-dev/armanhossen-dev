@@ -1,10 +1,5 @@
-
-
-
-
-
-
 # ✨ About Me 😎   
+
 🇧🇩 Hi, I’m **Arman** — a developer who `learns()`, `builds()` and `grows()` with code.     
 🎓 CS & Engineering · Daffodil International University → graduating **2028**    
 🛠️ Building web projects with **JavaScript, React, Node.js & Python**  
@@ -12,8 +7,8 @@
 ✅ Hands-on with **C, C++, Java, PHP, MySQL, Tailwind, Python**  
 ⚡  Exploring & **Interested** in SaaS products, distributed systems & sci-fi-inspired UI   
 
-
 ## Languages, Frameworks & Tools   
+
 [![](https://skillicons.dev/icons?i=c,cpp,py,html,css,tailwind,java,js,php,github,vscode,pycharm,idea,eclipse,windows,apple,linux,blender,ps,pr,au,ai&perline=11)](https://github.com/armanhossen-dev)
 
 [![](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)![](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)![](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)![](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)![](https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white)![](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)![](https://img.shields.io/badge/DuckDuckGo-FF5722?logo=duckduckgo&logoColor=white)](https://github.com/armanhossen-dev) <br/>
@@ -21,12 +16,14 @@
 
 
 ## GitHub Activity    
+
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=armanhossen-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/armanhossen-dev)    
+
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=github_dark)](https://github.com/armanhossen-dev)    
 
 
-
 ## Projects
+
 `A` Academic Project · `S` Side Project
 
 | N | Project | Type | Category | Stack | Live | Code |
@@ -45,6 +42,7 @@
 
 
 ## Competitive Programming ❤️‍🩹
+
 | [Codeforces](https://codeforces.com/profile/ArmanHossenRipon) | [LeetCode](https://leetcode.com/ArmanHossenRipon) | [AtCoder](https://atcoder.jp/users/TRYFINDME) | [Beecrowd](https://judge.beecrowd.com/en/profile/947888) | [CodeChef](https://www.codechef.com/users/armanhossencs) | [Toph](https://toph.co/u/Arman_Hossen241) |   
 |---|---|---|---|---|---|
 
@@ -53,8 +51,6 @@
 <div align="center">
   
 ### *The more you focus, the faster you grow.*   
-
-</div>
 
 <!--
 You chose one of the hardest and most rewarding fields in the world.
@@ -68,22 +64,12 @@ Your discipline decides whether you walk through it.
 Don't trust luck. Trust hard work." 💼
 
 Luck may open a door, but hard work is what keeps you in the room.
-
 What we often don't see are the early mornings, the late nights, the sacrifices, and the years of consistency that happened long before anyone noticed.
-
 The truth is, luck comes and goes. Some opportunities appear unexpectedly, while others never arrive at all.
-
 But the skills you build, the habits you develop, and the effort you invest every day are things no one can take away from you.
-
 Hard work doesn't always give you immediate results, but it gives you something even more valuable growth.
-
 Every challenge teaches you something. Every setback makes you stronger.
-
 Instead of waiting for the perfect moment, become the person who is ready when that moment arrives.
-
 Keep learning. Keep improving. Keep showing up, even when no one is watching.
-
 Because in the end, luck might change your day, but hard work has the power to change your life.
-
-
--->   
+-->
