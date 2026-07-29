@@ -22,6 +22,7 @@
 [![1](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=dark)](https://github.com/armanhossen-dev)    
 [![2](https://github-readme-streak-stats-eight.vercel.app?user=armanhossen-dev&theme=dark)](https://github.com/armanhossen-dev)
 [![3](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=armanhossen-dev&theme=dark)](https://github.com/armanhossen-dev)
+[![4](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=dark)](https://github.com/armanhossen-dev)
 
 <!-- [![4](https://github-stats-extended.vercel.app/api?username=armanhossen-dev&rank_icon=percentile&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=armanhossen-dev&rank_icon=percentile&include_all_commits=true&theme=dark&hide) -->   
 
