@@ -21,7 +21,7 @@
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=github_dark)](https://github.com/armanhossen-dev)    
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=armanhossen-dev&rank_icon=percentile&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=armanhossen-dev&rank_icon=percentile&include_all_commits=true&theme=chartreuse-dark)      
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=armanhossen-dev&rank_icon=percentile&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=armanhossen-dev&rank_icon=percentile&include_all_commits=true&theme=dark&hide)      
 
 
 ## Projects
