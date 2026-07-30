@@ -17,7 +17,14 @@
 
 ## GitHub Activity    
 
-<!--- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=armanhossen-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/armanhossen-dev)  --->
+<!--- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=armanhossen-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/armanhossen-dev)  
+
+https://github-readme-streak-stats-eight.vercel.app/demo/
+https://github-profile-summary-cards.vercel.app/demo.html
+https://github-stats-extended.vercel.app/frontend
+
+--->
+[![0](https://github-stats-extended.vercel.app/api/top-langs?username=armanhossen-dev&layout=compact&langs_count=8&disable_animations=true&theme=dark)]
 
 [![1](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=transparent)](https://github.com/armanhossen-dev)
 [![2](https://github-readme-streak-stats-eight.vercel.app?user=armanhossen-dev&theme=transparent)](https://github.com/armanhossen-dev)
