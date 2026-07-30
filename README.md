@@ -22,9 +22,8 @@ https://github-readme-streak-stats-eight.vercel.app/demo/
 https://github-profile-summary-cards.vercel.app/demo.html
 https://github-stats-extended.vercel.app/frontend
 --->
-[![1](https://github-stats-extended.vercel.app/api/top-langs?username=armanhossen-dev&layout=compact&langs_count=8&disable_animations=true&theme=highcontrast&hide_border=true&border_radius=0_height=185)](https://github.com/armanhossen-dev)
-[![2](https://github-readme-streak-stats-eight.vercel.app?user=armanhossen-dev&theme=highcontrast&hide_border=true&border_radius=0&card_width=395card_height=185)](https://github.com/armanhossen-dev)   [![3](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?user=armanhossen-dev&theme=highcontrast&hide_border=true&border_radius=0&card_height=185)](https://github.com/armanhossen-dev)
-
+[![1](https://github-stats-extended.vercel.app/api/top-langs?username=armanhossen-dev&layout=compact&langs_count=8&disable_animations=true&theme=highcontrast&hide_border=true&border_radius=0)](https://github.com/armanhossen-dev)
+[![2](https://github-readme-streak-stats-eight.vercel.app?user=armanhossen-dev&theme=highcontrast&hide_border=true&border_radius=0&card_width=395card_height=185)](https://github.com/armanhossen-dev)   [![3](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=highcontrast)](https://github.com/armanhossen-dev)
 
 ## Projects
 
