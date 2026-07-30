@@ -25,7 +25,7 @@ https://github-stats-extended.vercel.app/frontend
 
 --->
 [![1](https://github-stats-extended.vercel.app/api/top-langs?username=armanhossen-dev&layout=compact&langs_count=8&disable_animations=true&theme=dark)](https://github.com/armanhossen-dev)
-[![2]([![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=armanhossen-dev&theme=highcontrast&hide_border=true&border_radius=0&card_width=390&card_height=190)](https://github.com/armanhossen-dev)    
+[![2](https://github-readme-streak-stats-eight.vercel.app?user=armanhossen-dev&theme=highcontrast&hide_border=true&border_radius=0&card_width=390&card_height=190)](https://github.com/armanhossen-dev)    
 
 [![3](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=transparent)](https://github.com/armanhossen-dev)
 
