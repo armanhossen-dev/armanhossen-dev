@@ -24,11 +24,10 @@ https://github-profile-summary-cards.vercel.app/demo.html
 https://github-stats-extended.vercel.app/frontend
 
 --->
-[![0](https://github-stats-extended.vercel.app/api/top-langs?username=armanhossen-dev&layout=compact&langs_count=8&disable_animations=true&theme=dark)]
+[![1](https://github-stats-extended.vercel.app/api/top-langs?username=armanhossen-dev&layout=compact&langs_count=8&disable_animations=true&theme=dark)](https://github.com/armanhossen-dev)
+[![2](https://github-readme-streak-stats-eight.vercel.app?user=armanhossen-dev&theme=transparent)](https://github.com/armanhossen-dev)    
+[![3](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=transparent)](https://github.com/armanhossen-dev)
 
-[![1](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=transparent)](https://github.com/armanhossen-dev)
-[![2](https://github-readme-streak-stats-eight.vercel.app?user=armanhossen-dev&theme=transparent)](https://github.com/armanhossen-dev)
-[![3](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=armanhossen-dev&theme=transparent)](https://github.com/armanhossen-dev)
 
 <!-- [![4](https://github-stats-extended.vercel.app/api?username=armanhossen-dev&rank_icon=percentile&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=armanhossen-dev&rank_icon=percentile&include_all_commits=true&theme=dark&hide) -->   
 
