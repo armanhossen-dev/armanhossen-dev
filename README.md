@@ -22,9 +22,9 @@ https://github-readme-streak-stats-eight.vercel.app/demo/
 https://github-profile-summary-cards.vercel.app/demo.html
 https://github-stats-extended.vercel.app/frontend
 --->
-[![1](https://github-stats-extended.vercel.app/api/top-langs?username=armanhossen-dev&layout=compact&langs_count=8&disable_animations=true&theme=transparent&hide_border=true&border_radius=0)](https://github.com/armanhossen-dev)
-[![2](https://github-readme-streak-stats-eight.vercel.app?user=armanhossen-dev&theme=dark&hide_border=true&border_radius=0&card_width=395card_height=185)](https://github.com/armanhossen-dev)   
-[![3](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=dark)](https://github.com/armanhossen-dev)
+[![1](https://github-stats-extended.vercel.app/api/top-langs?username=armanhossen-dev&layout=compact&langs_count=8&disable_animations=true&theme=github_dark&hide_border=true&border_radius=0)](https://github.com/armanhossen-dev)
+[![2](https://github-readme-streak-stats-eight.vercel.app?user=armanhossen-dev&theme=github_dark&hide_border=true&border_radius=0&card_width=395card_height=180)](https://github.com/armanhossen-dev)   
+[![3](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=github_dark)](https://github.com/armanhossen-dev)
 
 ## Projects
 
