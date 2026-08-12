@@ -7,6 +7,7 @@
 ✅ Hands-on with **C, C++, Java, PHP, MySQL, Tailwind, Python**  
 ⚡  Exploring & **Interested** in SaaS products, distributed systems & sci-fi-inspired UI   
 
+
 ## Languages, Frameworks & Tools   
 
 [![](https://skillicons.dev/icons?i=c,cpp,py,html,css,tailwind,java,js,php,github,vscode,pycharm,idea,eclipse,windows,apple,linux,blender,ps,pr,au,ai&perline=11)](https://github.com/armanhossen-dev)
@@ -27,6 +28,7 @@ https://github-stats-extended.vercel.app/frontend
 [![](https://github-readme-streak-stats-eight.vercel.app?user=armanhossen-dev&theme=github_dark&hide_border=true&border_radius=0&card_width=395card_height=180)](https://github.com/armanhossen-dev)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=github_dark)](https://github.com/armanhossen-dev)
 
+
 ## Projects
 
 `A` Academic Project · `S` Side Project
@@ -43,7 +45,6 @@ https://github-stats-extended.vercel.app/frontend
 | 8 | **StudentNest** — Housing app | A | Desktop App | Java, JavaFX | — | [Code](https://github.com/armanhossen-dev/StudentNest) |
 | 9 | **FreeDownload** — Video Utility | S | Utility / Web Tool | HTML, CSS, JS | [Live](https://freedownload.vercel.app/) | [Code](https://github.com/armanhossen-dev/free-download) |
 | 10 | **Side Skills** — Tools, insights, assets | S | Bookmark / Resource Hub | HTML, CSS, JS | [Live](https://side-skills.vercel.app/) | — |
-
 
 
 ## Competitive Programming ❤️‍🩹
