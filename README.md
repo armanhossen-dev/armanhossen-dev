@@ -55,12 +55,13 @@ https://github-stats-extended.vercel.app/frontend
 <br/>
 
 <div align="center">
-  
 ### *The more you focus, the faster you grow.*   
+</div>
 
 AHRN: Man, how fast the days are going...          
-AI: Best thing you can do is make the days count—learn something, build something, meet people, take photos, go outside. Those little milestones make time feel less like it's just vanishing.
->> Don't just watch the days pass. Give them something to remember. ⏳
+AI: Best thing you can do is make the days count—learn something, build something, meet people, take photos, go outside. Those little milestones make time feel less like it's just vanishing.           
+
+> Don't just watch the days pass. Give them something to remember. ⏳
 
 <!--
 
