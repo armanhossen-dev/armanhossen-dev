@@ -55,7 +55,10 @@ https://github-stats-extended.vercel.app/frontend
 <br/>
 
 <div align="center">
-### *The more you focus, the faster you grow.*   
+  
+# *The more you focus, the faster you grow.* 
+
+
 </div>
 
 AHRN: Man, how fast the days are going...          
