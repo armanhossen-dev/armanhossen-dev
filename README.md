@@ -55,36 +55,16 @@ LEGACY
 <br/>
 
 <div align="center">
-# **DREAM BIG.**       
-</div>      
 
-AHRN: Man, how fast the days are going...          
-AI: Best thing you can do is make the days count—learn something, build something, meet people, take photos, go outside. Those little milestones make time feel less like it's just vanishing.      
+# **DREAM BIG.**
 
-> Don't just watch the days pass. Make them count.
+</div>
+
+**AHRN:** Man, how fast the days are going...
+**AI:** The best thing you can do is make the days count—learn something, build something, meet people, take photos, go outside. Those little milestones make time feel less like time is just slipping away.
+
+> **Don't just watch the days pass. Make them count.**
 
 <!--
-> Don't just watch the days pass. Give them something to remember.          
-> Dream Big! 
-Because this world is small! dont let anyone take awye your dream - car sounds, what impossible in your life go face it, what of that version of me chose right now not what should i do to be that kind of person, self talk, life is too short so live with a dream in reality yes, dont ever believe everybody says, no body know who you are - you got to do it alone, thay will make fun, follow you dream you  can't wait , rest more that needed, wake up and do what ever you have to do - believe 
 
-You chose one of the hardest and most rewarding fields in the world.
-
-Every day you waste, while someone in another country is solving algorithms,
-building AI, creating startups, and getting ready to compete for the same jobs you'll want after graduation.
-The world doesn't pay people for potential. It pays people for skills.
-Your degree will open the door.
-Your discipline decides whether you walk through it.
-> “You'll lose it, if you talk about it” 
-Don't trust luck. Trust hard work." 💼
-
-Luck may open a door, but hard work is what keeps you in the room.
-What we often don't see are the early mornings, the late nights, the sacrifices, and the years of consistency that happened long before anyone noticed.
-The truth is, luck comes and goes. Some opportunities appear unexpectedly, while others never arrive at all.
-But the skills you build, the habits you develop, and the effort you invest every day are things no one can take away from you.
-Hard work doesn't always give you immediate results, but it gives you something even more valuable growth.
-Every challenge teaches you something. Every setback makes you stronger.
-Instead of waiting for the perfect moment, become the person who is ready when that moment arrives.
-Keep learning. Keep improving. Keep showing up, even when no one is watching.
-Because in the end, luck might change your day, but hard work has the power to change your life.
 -->
