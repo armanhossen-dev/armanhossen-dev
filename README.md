@@ -64,7 +64,7 @@ https://github-stats-extended.vercel.app/frontend
 AHRN: Man, how fast the days are going...          
 AI: Best thing you can do is make the days count—learn something, build something, meet people, take photos, go outside. Those little milestones make time feel less like it's just vanishing.           
 
-> Don't just watch the days pass. Give them something to remember. ⏳
+> Don't just watch the days pass. Give them something to remember.          
 > Dream Big! 
 <!--
 Because this world is small! dont let anyone take awye your dream - car sounds, what impossible in your life go face it, what of that version of me chose right now not what should i do to be that kind of person, self talk, life is too short so live with a dream in reality yes, dont ever believe everybody says, no body know who you are - you got to do it alone, thay will make fun, follow you dream you  can't wait , rest more that needed, wake up and do what ever you have to do - believe 
