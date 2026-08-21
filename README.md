@@ -57,7 +57,7 @@ LEGACY
 
 <div align="center">
 
-# **DREAM BIG.**
+# **DREAM BIG**
 
 </div>
 
