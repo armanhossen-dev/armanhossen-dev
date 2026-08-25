@@ -67,4 +67,8 @@ LEGACY
 > **Don't just watch the days pass. Make them count.**
 
 
-![](https://komarev.com/ghpvc/?username=armanhossen-dev)
+![](https://komarev.com/ghpvc/?username=armanhossen-dev&style=pixel)
+| `flat` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6&style=flat) |
+| `flat-square` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6&style=flat-square) |
+| `plastic` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6&style=plastic) |
+| `for-the-badge` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6&style=for-the-badge) |
