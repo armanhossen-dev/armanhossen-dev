@@ -64,24 +64,5 @@ LEGACY
 **AHRN:** Man, how fast the days are going...        
 **AI:** The best thing you can do is make the days count—learn something, build something, meet people, take photos, go outside. Those little milestones make time feel less like time is just slipping away.
 
-> **Don't just watch the days pass. Make them count.**
-
-
-![](https://komarev.com/ghpvc/?username=armanhossen-dev&style=for-the-badge)             
-   
-| `for-the-badge` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6) |         
-
-| color | demo |
-| ----- | ---- |
-| `brightgreen` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=brightgreen) |
-| `green` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=green) |
-| `yellow` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=yellow) |
-| `yellowgreen` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=yellowgreen) |
-| `orange` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=orange) |
-| `red` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=red) |
-| `blue` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=blue) |
-| `grey` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=grey) |
-| `lightgrey` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=lightgrey) |
-| `blueviolet` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=blueviolet) |
-| `ff69b4` | ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=ff69b4) |
-
+> **Don't just watch the days pass. Make them count.** ![](https://komarev.com/ghpvc/?username=armanhossen-dev&style=for-the-badge&color=007ec6)             
+      
