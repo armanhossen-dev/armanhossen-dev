@@ -66,6 +66,5 @@ LEGACY
 
 > **Don't just watch the days pass. Make them count.**
 
-<!--
 
--->
+![](https://komarev.com/ghpvc/?username=armanhossen-dev)
