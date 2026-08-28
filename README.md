@@ -63,6 +63,3 @@ LEGACY
 **AI:** The best thing you can do is make the days count—learn something, build something, meet people, take photos, go outside. Those little milestones make time feel less like time is just slipping away.
 
 > **Don't just watch the days pass. Make them count.**
-
-![](https://komarev.com/ghpvc/?username=armanhossen-dev&style=for-the-badge&color=238737)             
-      
