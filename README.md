@@ -35,8 +35,7 @@
 | 6 | **AHRN Portfolio** — Personal site | ![S](https://img.shields.io/badge/S-F9A825) | Portfolio | HTML, CSS, JS | [Live](https://www.armanhossen.is-a.dev) | — |
 | 7 | **Asha Bank** — Banking app | ![A](https://img.shields.io/badge/A-0366D6) | Full-Stack | PHP, MySQL, JS | — | [Code](https://github.com/armanhossen-dev/BMS) |
 | 8 | **StudentNest** — Housing app | ![A](https://img.shields.io/badge/A-0366D6) | Desktop App | Java, JavaFX | — | [Code](https://github.com/armanhossen-dev/StudentNest) |
-| 9 | **FreeDownload** — Video Utility | ![S](https://img.shields.io/badge/S-F9A825) | Utility / Web Tool | HTML, CSS, JS | [Live](https://freedownload.vercel.app/) | [Code](https://github.com/armanhossen-dev/free-download) |
-| 10 | **Side Skills** — Tools, insights, assets | ![S](https://img.shields.io/badge/S-F9A825) | Bookmark / Resource Hub | HTML, CSS, JS | [Live](https://side-skills.vercel.app/) | — |
+| 9 | **Side Skills** — Tools, insights, assets | ![S](https://img.shields.io/badge/S-F9A825) | Bookmark / Resource Hub | HTML, CSS, JS | [Live](https://side-skills.vercel.app/) | — |
 
 
 ## Competitive Programming ❤️‍🩹
