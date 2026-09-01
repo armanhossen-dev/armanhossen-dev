@@ -10,15 +10,12 @@
 
 [![](https://skillicons.dev/icons?i=c,cpp,py,html,css,tailwind,java,js,php,github,vscode,pycharm,idea,eclipse,windows,apple,linux,blender,ps,pr,au,ai&perline=11)](https://github.com/armanhossen-dev)
 
-[![](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)![](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)![](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)![](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)![](https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white)![](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)![](https://img.shields.io/badge/DuckDuckGo-FF5722?logo=duckduckgo&logoColor=white)](https://github.com/armanhossen-dev) <br/>
-[![](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/armanhossen41) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/i.am.ahrn)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armanhossenripon) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/armanhossen_dev) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Arman-Hossen-189) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/i_am_ahrn) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ArmanHossenOfficial) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Arman-Hossen-Ripon)<br/>
-
 
 ## GitHub Activity    
 
 [![](https://github-stats-extended.vercel.app/api/top-langs?username=armanhossen-dev&layout=compact&langs_count=10&disable_animations=true&theme=github_dark&hide_border=true&border_radius=0)](https://github.com/armanhossen-dev) [![](https://github-readme-streak-stats-eight.vercel.app?user=armanhossen-dev&theme=github_dark&hide_border=true&border_radius=0&card_width=395card_height=180)](https://github.com/armanhossen-dev)    
 
-
+           
 ## Projects
 
 ![Academic](https://img.shields.io/badge/A-Academic%20Project-0366D6?style=for-the-badge)
@@ -33,10 +30,9 @@
 | 5 | **AHRN Portfolio** — Personal site | ![S](https://img.shields.io/badge/S-39d353?style=for-the-badge) | Portfolio | HTML, CSS, JS | [Live](https://www.armanhossen.is-a.dev) | — |
 | 6 | **Asha Bank** — Banking app | ![A](https://img.shields.io/badge/A-0366D6?style=for-the-badge) | Full-Stack | PHP, MySQL, JS | — | [Code](https://github.com/armanhossen-dev/BMS) |
 | 7 | **StudentNest** — Housing app | ![A](https://img.shields.io/badge/A-0366D6?style=for-the-badge) | Desktop App | Java, JavaFX | — | [Code](https://github.com/armanhossen-dev/StudentNest) |
-| 8 | **Side Skills** — Tools, insights, assets | ![S](https://img.shields.io/badge/S-39d353?style=for-the-badge) | Bookmark / Resource Hub | HTML, CSS, JS | [Live](https://side-skills.vercel.app/) | — |
+| 8 | **Side Skills** — Tools, insights, assets | ![S](https://img.shields.io/badge/S-39d353?style=for-the-badge) | Bookmark / Resource Hub | HTML, CSS, JS | [Live](https://side-skills.vercel.app/) | — |      
 
-
-
+     
 ## Competitive Programming ❤️‍🩹
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ArmanHossenRipon)
