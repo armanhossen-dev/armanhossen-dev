@@ -35,6 +35,7 @@
 | 7 | **StudentNest** — Housing app | ![A](https://img.shields.io/badge/A-0366D6) | Desktop App | Java, JavaFX | — | [Code](https://github.com/armanhossen-dev/StudentNest) |
 | 8 | **Side Skills** — Tools, insights, assets | ![S](https://img.shields.io/badge/S-39d353) | Bookmark / Resource Hub | HTML, CSS, JS | [Live](https://side-skills.vercel.app/) | — |
 
+<br/>
 
 ## Competitive Programming ❤️‍🩹
 
@@ -45,18 +46,10 @@
 [![Beecrowd](https://img.shields.io/badge/Beecrowd-662583?style=for-the-badge)](https://judge.beecrowd.com/en/profile/947888)
 [![Toph](https://img.shields.io/badge/Toph-0292e4?style=for-the-badge)](https://toph.co/u/Arman_Hossen241)
 
-<br/>
 
 <div align="center">
 
 # **DREAM BIG**
 
 </div>
-
 > **Don't just watch the days pass. Make them count.**
-
-<!--
-Extra:  
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=github_dark)](https://github.com/armanhossen-dev)
-`A` Academic Project · `S` Side Project 
--->
