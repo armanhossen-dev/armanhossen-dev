@@ -6,12 +6,9 @@ const whoami = {
   role: "CSE Undergrad @ Daffodil International University",
   graduation: "2028",
   focus: ["DSA", "Backend Development", "AI/ML Fundamentals"],
-  hands-on: ["C", C++", "Java", "JavaScript", "Python", "PHP", "MySQL", "Tailwind"],
-  currentlyBuilding: "AHRN — a personal dev ecosystem & portfolio",
-  askMeAbout: ["Competitive Programming", "Full-Stack Web Dev", "Cloud"],
+  handsOn: ["C", "C++", "Java", "JavaScript", "Python", "PHP", "MySQL", "Tailwind"],
 };
 ```
-<!---  console.log(whoami); --->
 
 ## Languages, Frameworks & Tools  
 
