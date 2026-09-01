@@ -23,7 +23,8 @@
 ## Projects
 
 `A` Academic Project · `S` Side Project
-[![](https://img.shields.io/badge/A-0A66C2)]
+[!(https://img.shields.io/badge/A-238636)]
+[!(https://img.shields.io/badge/S-e00c32)]
 
 | N | Project | Type | Category | Stack | Live | Code |
 |:---:|---|:---:|---|---|:---:|:---:|
