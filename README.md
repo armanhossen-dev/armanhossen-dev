@@ -23,8 +23,8 @@
 ## Projects
 
 `A` Academic Project · `S` Side Project
-[!(https://img.shields.io/badge/A-238636)]
-[!(https://img.shields.io/badge/S-e00c32)]
+[![A](https://img.shields.io/badge/A-238636)]
+[![S](https://img.shields.io/badge/S-e00c32)]
 
 | N | Project | Type | Category | Stack | Live | Code |
 |:---:|---|:---:|---|---|:---:|:---:|
@@ -54,16 +54,3 @@
 </div>
 
 > **Don't just watch the days pass. Make them count.**
-
-<!--- 
-https://github-readme-streak-stats-eight.vercel.app/demo/
-https://github-profile-summary-cards.vercel.app/demo.html
-https://github-stats-extended.vercel.app/frontend
-LEGACY
-
-**AHRN:** Man, how fast the days are going...        
-**AI:** The best thing you can do is make the days count—learn something, build something, meet people, take photos, go outside. Those little milestones make time feel less like time is just slipping away.
-
-🛠️ Building web projects with **JavaScript, React, Node.js & Python**  
-⚡  Exploring & **Interested** in SaaS products, distributed systems & sci-fi-inspired UI   
---->
