@@ -21,9 +21,7 @@
 
 
 ## Projects
-
-`A` Academic Project · `S` Side Project
-
+<!-- `A` Academic Project · `S` Side Project -->
 ![Academic](https://img.shields.io/badge/A-Academic%20Project-0366D6)
 ![Side](https://img.shields.io/badge/S-Side%20Project-F9A825)
 
