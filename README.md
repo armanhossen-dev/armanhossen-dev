@@ -33,14 +33,27 @@
 
 
 ## Competitive Programming ❤️‍🩹
-![A](https://img.shields.io/badge/A-0366D6)
-
 [![Codeforces](https://img.shields.io/badge/Codeforces-0366D6)](https://codeforces.com/profile/ArmanHossenRipon) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-0366D6)](https://leetcode.com/ArmanHossenRipon) 
 [![AtCoder](https://img.shields.io/badge/AtCoder-0366D6)](https://atcoder.jp/users/TRYFINDME) 
 [![Beecrowd](https://img.shields.io/badge/Beecrowd-0366D6)](https://judge.beecrowd.com/en/profile/947888) 
 [![CodeChef](https://img.shields.io/badge/CodeChef-0366D6)](https://www.codechef.com/users/armanhossencs) 
 [![Toph](https://img.shields.io/badge/Toph-0366D6)](https://toph.co/u/Arman_Hossen241)    
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-0366D6?style=flat-square)](https://codeforces.com/profile/ArmanHossenRipon)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0366D6?style=flat-square)](https://leetcode.com/ArmanHossenRipon)
+[![AtCoder](https://img.shields.io/badge/AtCoder-0366D6?style=flat-square)](https://atcoder.jp/users/TRYFINDME)
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-0366D6?style=flat-square)](https://judge.beecrowd.com/en/profile/947888)
+[![CodeChef](https://img.shields.io/badge/CodeChef-0366D6?style=flat-square)](https://www.codechef.com/users/armanhossencs)
+[![Toph](https://img.shields.io/badge/Toph-0366D6?style=flat-square)](https://toph.co/u/Arman_Hossen241)
+
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-0366D6?style=for-the-badge)](https://codeforces.com/profile/ArmanHossenRipon)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0366D6?style=for-the-badge)](https://leetcode.com/ArmanHossenRipon)
+[![AtCoder](https://img.shields.io/badge/AtCoder-0366D6?style=for-the-badge)](https://atcoder.jp/users/TRYFINDME)
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-0366D6?style=for-the-badge)](https://judge.beecrowd.com/en/profile/947888)
+[![CodeChef](https://img.shields.io/badge/CodeChef-0366D6?style=for-the-badge)](https://www.codechef.com/users/armanhossencs)
+[![Toph](https://img.shields.io/badge/Toph-0366D6?style=for-the-badge)](https://toph.co/u/Arman_Hossen241)
 
 <br/>
 
