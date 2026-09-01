@@ -2,10 +2,8 @@
 
 🇧🇩 Hi, I’m **Arman** — a developer who `learns()`, `builds()` and `grows()` with code.     
 🎓 CS & Engineering · Daffodil International University → graduating **2028**    
-🛠️ Building web projects with **JavaScript, React, Node.js & Python**  
 🌱 Focused on **DSA, Backend Development & AI/ML fundamentals**  
 ✅ Hands-on with **C, C++, Java, PHP, MySQL, Tailwind, Python**  
-⚡  Exploring & **Interested** in SaaS products, distributed systems & sci-fi-inspired UI   
 
 
 ## Languages, Frameworks & Tools   
@@ -17,12 +15,6 @@
 
 
 ## GitHub Activity    
-<!--- 
-https://github-readme-streak-stats-eight.vercel.app/demo/
-https://github-profile-summary-cards.vercel.app/demo.html
-https://github-stats-extended.vercel.app/frontend
-LEGACY
---->
 
 [![](https://github-stats-extended.vercel.app/api/top-langs?username=armanhossen-dev&layout=compact&langs_count=10&disable_animations=true&theme=github_dark&hide_border=true&border_radius=0)](https://github.com/armanhossen-dev) [![](https://github-readme-streak-stats-eight.vercel.app?user=armanhossen-dev&theme=github_dark&hide_border=true&border_radius=0&card_width=395card_height=180)](https://github.com/armanhossen-dev)    
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=github_dark)](https://github.com/armanhossen-dev)
@@ -59,7 +51,17 @@ LEGACY
 
 </div>
 
+> **Don't just watch the days pass. Make them count.**
+
+<!--- 
+https://github-readme-streak-stats-eight.vercel.app/demo/
+https://github-profile-summary-cards.vercel.app/demo.html
+https://github-stats-extended.vercel.app/frontend
+LEGACY
+
 **AHRN:** Man, how fast the days are going...        
 **AI:** The best thing you can do is make the days count—learn something, build something, meet people, take photos, go outside. Those little milestones make time feel less like time is just slipping away.
 
-> **Don't just watch the days pass. Make them count.**
+🛠️ Building web projects with **JavaScript, React, Node.js & Python**  
+⚡  Exploring & **Interested** in SaaS products, distributed systems & sci-fi-inspired UI   
+--->
