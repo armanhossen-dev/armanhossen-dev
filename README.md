@@ -31,11 +31,10 @@
 | 2 | **UNLOCKEDSTUDIO** — Fiction shop | ![S](https://img.shields.io/badge/S-F9A825) | Web Platform | HTML, CSS, JS | [Live](https://unlockedstudio.vercel.app) | [Code](https://github.com/armanhossen-dev/ustudio-v2.0) |
 | 3 | **Dark Time** — Minimal Digital Clock | ![S](https://img.shields.io/badge/S-F9A825) | Web App | HTML, CSS, JS | [Live](https://darktime.vercel.app) | [Code](https://github.com/armanhossen-dev/DarkTime) |
 | 4 | **Cloud Tasks** — Offline To-Do | ![S](https://img.shields.io/badge/S-F9A825) | Productivity Tool | HTML, CSS, JS | [Live](https://cloudtasks.vercel.app) | [Code](https://github.com/armanhossen-dev/To-Do-List) |
-| 5 | **3D Web** — 3D experiment | ![S](https://img.shields.io/badge/S-F9A825) | Experiment / Demo | HTML, CSS | [Live](https://ahrn.vercel.app) | [Code](https://github.com/armanhossen-dev/3D-WEB) |
-| 6 | **AHRN Portfolio** — Personal site | ![S](https://img.shields.io/badge/S-F9A825) | Portfolio | HTML, CSS, JS | [Live](https://www.armanhossen.is-a.dev) | — |
-| 7 | **Asha Bank** — Banking app | ![A](https://img.shields.io/badge/A-0366D6) | Full-Stack | PHP, MySQL, JS | — | [Code](https://github.com/armanhossen-dev/BMS) |
-| 8 | **StudentNest** — Housing app | ![A](https://img.shields.io/badge/A-0366D6) | Desktop App | Java, JavaFX | — | [Code](https://github.com/armanhossen-dev/StudentNest) |
-| 9 | **Side Skills** — Tools, insights, assets | ![S](https://img.shields.io/badge/S-F9A825) | Bookmark / Resource Hub | HTML, CSS, JS | [Live](https://side-skills.vercel.app/) | — |
+| 5 | **AHRN Portfolio** — Personal site | ![S](https://img.shields.io/badge/S-F9A825) | Portfolio | HTML, CSS, JS | [Live](https://www.armanhossen.is-a.dev) | — |
+| 6 | **Asha Bank** — Banking app | ![A](https://img.shields.io/badge/A-0366D6) | Full-Stack | PHP, MySQL, JS | — | [Code](https://github.com/armanhossen-dev/BMS) |
+| 7 | **StudentNest** — Housing app | ![A](https://img.shields.io/badge/A-0366D6) | Desktop App | Java, JavaFX | — | [Code](https://github.com/armanhossen-dev/StudentNest) |
+| 8 | **Side Skills** — Tools, insights, assets | ![S](https://img.shields.io/badge/S-F9A825) | Bookmark / Resource Hub | HTML, CSS, JS | [Live](https://side-skills.vercel.app/) | — |
 
 
 ## Competitive Programming ❤️‍🩹
