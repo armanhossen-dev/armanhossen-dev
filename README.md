@@ -15,7 +15,6 @@ const whoami = {
 [![](https://skillicons.dev/icons?i=c,cpp,py,html,css,tailwind,java,js,php,mysql,github,vscode,pycharm,idea,eclipse,windows,apple,linux,blender,arduino,ps,pr,au,ai&perline=12)](https://github.com/armanhossen-dev)   
 <!-- gcp,figma,ts,react,nodejs -->
 [![vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge)![Sublime Text](https://img.shields.io/badge/Sublime%20Text-ff9801?style=for-the-badge&-text&)![Canva](https://img.shields.io/badge/Canva-0bb0c9?style=for-the-badge)![Safari](https://img.shields.io/badge/Safari-10aaf6?style=for-the-badge)![Brave](https://img.shields.io/badge/Brave%20Browser-ff2600?style=for-the-badge)![Tor Browser](https://img.shields.io/badge/Tor%20Browser-59316b?style=for-the-badge&-Browser&)![Duckduckgo](https://img.shields.io/badge/DuckDuckGo-f05f2b?style=for-the-badge)](https://github.com/armanhossen-dev)   
-## 🔗 AI Tools
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge)](https://chatgpt.com)
 [![Claude](https://img.shields.io/badge/Claude-d97757?style=for-the-badge)](https://claude.com/)
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-ba6b93?style=for-the-badge)](https://gemini.google.com/app)
