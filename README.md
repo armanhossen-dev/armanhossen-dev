@@ -1,4 +1,5 @@
 # ✨ About Me 😎   
+
 🇧🇩 Hi, I’m **Arman** — a developer who `learns()`, `builds()` and `grows()` with code.     
 🎓 CS & Engineering · Daffodil International University → graduating **2028**    
 🌱 Focused on **DSA, Backend Development & AI/ML fundamentals**  
@@ -6,6 +7,7 @@
 
 
 ## Languages, Frameworks & Tools  
+
 [![](https://skillicons.dev/icons?i=c,cpp,py,html,css,tailwind,java,js,php,github,vscode,pycharm,idea,eclipse,windows,apple,linux,blender,ps,pr,au,ai&perline=11)](https://github.com/armanhossen-dev)
 
 [![](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)![](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)![](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)![](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)![](https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white)![](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)![](https://img.shields.io/badge/DuckDuckGo-FF5722?logo=duckduckgo&logoColor=white)](https://github.com/armanhossen-dev) <br/>
@@ -13,32 +15,35 @@
 
 
 ## GitHub Activity    
+
 [![](https://github-stats-extended.vercel.app/api/top-langs?username=armanhossen-dev&layout=compact&langs_count=10&disable_animations=true&theme=github_dark&hide_border=true&border_radius=0)](https://github.com/armanhossen-dev) [![](https://github-readme-streak-stats-eight.vercel.app?user=armanhossen-dev&theme=github_dark&hide_border=true&border_radius=0&card_width=395card_height=180)](https://github.com/armanhossen-dev)    
 
 
 ## Projects
+
 ![Academic](https://img.shields.io/badge/A-Academic%20Project-0366D6)
-![Side](https://img.shields.io/badge/S-Side%20Project-F9A825)
+![Side](https://img.shields.io/badge/S-Side%20Project-39d353)
 
 | N | Project | Type | Category | Stack | Live | Code |
 |:---:|---|:---:|---|---|:---:|:---:|
 | 1 | **Fitness Chatbot** — AI fitness bot | ![A](https://img.shields.io/badge/A-0366D6) | AI / Chatbot | HTML, CSS, Chatbase | [Live](https://fitnessbot.vercel.app) | [Code](https://github.com/armanhossen-dev/WEB2024) |
-| 2 | **UNLOCKEDSTUDIO** — Fiction shop | ![S](https://img.shields.io/badge/S-F9A825) | Web Platform | HTML, CSS, JS | [Live](https://unlockedstudio.vercel.app) | [Code](https://github.com/armanhossen-dev/ustudio-v2.0) |
-| 3 | **Dark Time** — Minimal Digital Clock | ![S](https://img.shields.io/badge/S-F9A825) | Web App | HTML, CSS, JS | [Live](https://darktime.vercel.app) | [Code](https://github.com/armanhossen-dev/DarkTime) |
-| 4 | **Cloud Tasks** — Offline To-Do Tab | ![S](https://img.shields.io/badge/S-F9A825) | Productivity Tool | HTML, CSS, JS | [Live](https://cloudtasks.vercel.app) | [Code](https://github.com/armanhossen-dev/To-Do-List) |
-| 5 | **AHRN Portfolio** — Personal site | ![S](https://img.shields.io/badge/S-F9A825) | Portfolio | HTML, CSS, JS | [Live](https://www.armanhossen.is-a.dev) | — |
+| 2 | **UNLOCKEDSTUDIO** — Fiction shop | ![S](https://img.shields.io/badge/S-39d353) | Web Platform | HTML, CSS, JS | [Live](https://unlockedstudio.vercel.app) | [Code](https://github.com/armanhossen-dev/ustudio-v2.0) |
+| 3 | **Dark Time** — Minimal Digital Clock | ![S](https://img.shields.io/badge/S-39d353) | Web App | HTML, CSS, JS | [Live](https://darktime.vercel.app) | [Code](https://github.com/armanhossen-dev/DarkTime) |
+| 4 | **Cloud Tasks** — Offline To-Do Tab | ![S](https://img.shields.io/badge/S-39d353) | Productivity Tool | HTML, CSS, JS | [Live](https://cloudtasks.vercel.app) | [Code](https://github.com/armanhossen-dev/To-Do-List) |
+| 5 | **AHRN Portfolio** — Personal site | ![S](https://img.shields.io/badge/S-39d353) | Portfolio | HTML, CSS, JS | [Live](https://www.armanhossen.is-a.dev) | — |
 | 6 | **Asha Bank** — Banking app | ![A](https://img.shields.io/badge/A-0366D6) | Full-Stack | PHP, MySQL, JS | — | [Code](https://github.com/armanhossen-dev/BMS) |
 | 7 | **StudentNest** — Housing app | ![A](https://img.shields.io/badge/A-0366D6) | Desktop App | Java, JavaFX | — | [Code](https://github.com/armanhossen-dev/StudentNest) |
-| 8 | **Side Skills** — Tools, insights, assets | ![S](https://img.shields.io/badge/S-F9A825) | Bookmark / Resource Hub | HTML, CSS, JS | [Live](https://side-skills.vercel.app/) | — |
+| 8 | **Side Skills** — Tools, insights, assets | ![S](https://img.shields.io/badge/S-39d353) | Bookmark / Resource Hub | HTML, CSS, JS | [Live](https://side-skills.vercel.app/) | — |
 
 
 ## Competitive Programming ❤️‍🩹
+
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ArmanHossenRipon)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ArmanHossenRipon)
-[![AtCoder](https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/TRYFINDME)
-[![Beecrowd](https://img.shields.io/badge/Beecrowd-FF7F00?style=for-the-badge)](https://judge.beecrowd.com/en/profile/947888)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/armanhossencs)
-[![Toph](https://img.shields.io/badge/Toph-1C1C1C?style=for-the-badge)](https://toph.co/u/Arman_Hossen241)
+[![AtCoder](https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/TRYFINDME)
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-662583?style=for-the-badge)](https://judge.beecrowd.com/en/profile/947888)
+[![Toph](https://img.shields.io/badge/Toph-0292e4?style=for-the-badge)](https://toph.co/u/Arman_Hossen241)
 
 <br/>
 
