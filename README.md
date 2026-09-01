@@ -19,13 +19,34 @@ const whoami = {
 [![Claude](https://img.shields.io/badge/Claude-d97757?style=for-the-badge)](https://claude.com/)
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-ba6b93?style=for-the-badge)](https://gemini.google.com/app)
 [![DeepSeek](https://img.shields.io/badge/DeepSeek-5686fe?style=for-the-badge)](https://www.deepseek.com/en/)
+
+## AI Playground
+
 [![MonkeyCode AI](https://img.shields.io/badge/MonkeyCode%20AI-1E1E2E?style=for-the-badge&logoColor=white)](https://monkeycode-ai.net/console/tasks)
 [![Genspark AI](https://img.shields.io/badge/Genspark%20AI-6C5CE7?style=for-the-badge&logoColor=white)](https://www.genspark.ai/)
-
+[![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge)](https://openai.com/codex)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)](https://cursor.com)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-8957E5?style=for-the-badge)](https://github.com/features/copilot)
+[![Codeium](https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge)](https://codeium.com)
+[![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge)](https://replit.com)
+[![Tabnine](https://img.shields.io/badge/Tabnine-FF6B00?style=for-the-badge)](https://www.tabnine.com)
+[![Amazon Q](https://img.shields.io/badge/Amazon%20Q-FF9900?style=for-the-badge)](https://aws.amazon.com/q/)
+[![Sourcegraph](https://img.shields.io/badge/Sourcegraph-00B4F0?style=for-the-badge)](https://sourcegraph.com)
+[![Aider](https://img.shields.io/badge/Aider-0079BE?style=for-the-badge)](https://aider.chat)
+[![Bolt.new](https://img.shields.io/badge/Bolt.new-8A2BE2?style=for-the-badge)](https://bolt.new)
+[![v0.dev](https://img.shields.io/badge/v0.dev-000000?style=for-the-badge)](https://v0.dev)
+[![Blackbox AI](https://img.shields.io/badge/Blackbox%20AI-121212?style=for-the-badge)](https://www.blackbox.ai)
+[![Perplexity](https://img.shields.io/badge/Perplexity-20B8CD?style=for-the-badge)](https://www.perplexity.ai)
+[![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge)](https://mistral.ai)
+[![Llama](https://img.shields.io/badge/LLaMA-FF7000?style=for-the-badge)](https://llama.meta.com)
+[![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)](https://groq.com)
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)](https://ollama.com)
+[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge)](https://huggingface.co)
+[![Cohere](https://img.shields.io/badge/Cohere-39594D?style=for-the-badge)](https://cohere.com)
 
 ## GitHub Activity    
 
-[![](https://github-stats-extended.vercel.app/api/top-langs?username=armanhossen-dev&layout=compact&langs_count=10&disable_animations=true&theme=github_dark&hide_border=true&border_radius=0)](https://github.com/armanhossen-dev) [![](https://github-readme-streak-stats-eight.vercel.app?user=armanhossen-dev&theme=github_dark&hide_border=true&border_radius=0&card_width=395card_height=180)](https://github.com/armanhossen-dev)    
+[![](https://github-stats-extended.vercel.app/api/top-langs?username=armanhossen-dev&layout=compact&langs_count=10&disable_animations=true&theme=github_dark&hide_border=true&border_radius=0)](https://github.com/armanhossen-dev)[![](https://github-readme-streak-stats-eight.vercel.app?user=armanhossen-dev&theme=github_dark&hide_border=true&border_radius=0&card_width=395card_height=180)](https://github.com/armanhossen-dev)
 
            
 ## Projects
