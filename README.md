@@ -1,13 +1,11 @@
 # ✨ About Me 😎   
-
 🇧🇩 Hi, I’m **Arman** — a developer who `learns()`, `builds()` and `grows()` with code.     
 🎓 CS & Engineering · Daffodil International University → graduating **2028**    
 🌱 Focused on **DSA, Backend Development & AI/ML fundamentals**  
 ✅ Hands-on with **C, C++, Java, PHP, MySQL, Tailwind, Python**  
 
 
-## Languages, Frameworks & Tools   
-
+## Languages, Frameworks & Tools  
 [![](https://skillicons.dev/icons?i=c,cpp,py,html,css,tailwind,java,js,php,github,vscode,pycharm,idea,eclipse,windows,apple,linux,blender,ps,pr,au,ai&perline=11)](https://github.com/armanhossen-dev)
 
 [![](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)![](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)![](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)![](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)![](https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white)![](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)![](https://img.shields.io/badge/DuckDuckGo-FF5722?logo=duckduckgo&logoColor=white)](https://github.com/armanhossen-dev) <br/>
@@ -15,13 +13,10 @@
 
 
 ## GitHub Activity    
-
 [![](https://github-stats-extended.vercel.app/api/top-langs?username=armanhossen-dev&layout=compact&langs_count=10&disable_animations=true&theme=github_dark&hide_border=true&border_radius=0)](https://github.com/armanhossen-dev) [![](https://github-readme-streak-stats-eight.vercel.app?user=armanhossen-dev&theme=github_dark&hide_border=true&border_radius=0&card_width=395card_height=180)](https://github.com/armanhossen-dev)    
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=github_dark)](https://github.com/armanhossen-dev)
 
 
 ## Projects
-<!-- `A` Academic Project · `S` Side Project -->
 ![Academic](https://img.shields.io/badge/A-Academic%20Project-0366D6)
 ![Side](https://img.shields.io/badge/S-Side%20Project-F9A825)
 
@@ -38,8 +33,14 @@
 
 
 ## Competitive Programming ❤️‍🩹
+![A](https://img.shields.io/badge/A-0366D6)
 
-| [Codeforces](https://codeforces.com/profile/ArmanHossenRipon) | [LeetCode](https://leetcode.com/ArmanHossenRipon) | [AtCoder](https://atcoder.jp/users/TRYFINDME) | [Beecrowd](https://judge.beecrowd.com/en/profile/947888) | [CodeChef](https://www.codechef.com/users/armanhossencs) | [Toph](https://toph.co/u/Arman_Hossen241) |   
+[![Codeforces](https://img.shields.io/badge/Codeforces-)](https://codeforces.com/profile/ArmanHossenRipon) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-)](https://leetcode.com/ArmanHossenRipon) 
+[![AtCoder](https://img.shields.io/badge/AtCoder-)](https://atcoder.jp/users/TRYFINDME) 
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-)](https://judge.beecrowd.com/en/profile/947888) 
+[![CodeChef](https://img.shields.io/badge/CodeChef-)](https://www.codechef.com/users/armanhossencs) 
+[![Toph](https://img.shields.io/badge/Toph-)](https://toph.co/u/Arman_Hossen241)    
 |---|---|---|---|---|---|
 
 <br/>
@@ -51,3 +52,9 @@
 </div>
 
 > **Don't just watch the days pass. Make them count.**
+
+<!--
+Extra:  
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanhossen-dev&theme=github_dark)](https://github.com/armanhossen-dev)
+`A` Academic Project · `S` Side Project 
+-->
