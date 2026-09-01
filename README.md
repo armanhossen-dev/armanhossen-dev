@@ -1,7 +1,4 @@
-
 ## `$ whoami`
-
-
 ```js
 const whoami = {
   name: "Arman Hossen Ripon",
@@ -13,18 +10,8 @@ const whoami = {
   currentlyBuilding: "AHRN — a personal dev ecosystem & portfolio",
   askMeAbout: ["Competitive Programming", "Full-Stack Web Dev", "Cloud"],
 };
-
-console.log(whoami);
 ```
-
-<p align="left">
-  <a href="https://codeforces.com/profile/ArmanHossenRipon"><img src="https://img.shields.io/badge/Codeforces-ArmanHossenRipon-1F8ACB?style=flat&logo=codeforces&logoColor=white"/></a>
-  <a href="https://atcoder.jp/users/TRYFINDME"><img src="https://img.shields.io/badge/AtCoder-TRYFINDME-000000?style=flat&logo=atcoder&logoColor=white"/></a>
-  <a href="https://armanhossen.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-armanhossen.is--a.dev-000000?style=flat&logo=vercel&logoColor=white"/></a>
-</p>
-
-
-
+<!---  console.log(whoami); --->
 
 ## Languages, Frameworks & Tools  
 
