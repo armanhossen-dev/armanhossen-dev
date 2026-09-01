@@ -1,5 +1,19 @@
 # ✨ About Me 😎   
 
+## `$ whoami`
+```bash
+$ whoami
+```
+## whoami
+```bash
+arman@dev:~$ whoami
+```
+```bash
+$ whoami
+> Arman — CS&E Student, Developer
+```
+
+
 🇧🇩 Hi, I’m **Arman** — a developer who `learns()`, `builds()` and `grows()` with code.     
 🎓 CS & Engineering · Daffodil International University → graduating **2028**    
 🌱 Focused on **DSA, Backend Development & AI/ML fundamentals**  
