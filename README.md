@@ -1,23 +1,29 @@
-# ✨ About Me 😎   
 
 ## `$ whoami`
-```bash
-$ whoami
-```
-## whoami
-```bash
-arman@dev:~$ whoami
-```
-```bash
-$ whoami
-> Arman — CS&E Student, Developer
-```
 
 
-🇧🇩 Hi, I’m **Arman** — a developer who `learns()`, `builds()` and `grows()` with code.     
-🎓 CS & Engineering · Daffodil International University → graduating **2028**    
-🌱 Focused on **DSA, Backend Development & AI/ML fundamentals**  
-✅ Hands-on with **C, C++, Java, PHP, MySQL, Tailwind, Python**  
+```js
+const whoami = {
+  name: "Arman Hossen Ripon",
+  location: "🇧🇩 Dhaka, Bangladesh",
+  role: "CSE Undergrad @ Daffodil International University",
+  graduation: "2028",
+  focus: ["DSA", "Backend Development", "AI/ML Fundamentals"],
+  hands-on: ["C", C++", "Java", "JavaScript", "Python", "PHP", "MySQL", "Tailwind"],
+  currentlyBuilding: "AHRN — a personal dev ecosystem & portfolio",
+  askMeAbout: ["Competitive Programming", "Full-Stack Web Dev", "Cloud"],
+};
+
+console.log(whoami);
+```
+
+<p align="left">
+  <a href="https://codeforces.com/profile/ArmanHossenRipon"><img src="https://img.shields.io/badge/Codeforces-ArmanHossenRipon-1F8ACB?style=flat&logo=codeforces&logoColor=white"/></a>
+  <a href="https://atcoder.jp/users/TRYFINDME"><img src="https://img.shields.io/badge/AtCoder-TRYFINDME-000000?style=flat&logo=atcoder&logoColor=white"/></a>
+  <a href="https://armanhossen.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-armanhossen.is--a.dev-000000?style=flat&logo=vercel&logoColor=white"/></a>
+</p>
+
+
 
 
 ## Languages, Frameworks & Tools  
