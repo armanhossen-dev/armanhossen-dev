@@ -15,34 +15,29 @@ const whoami = {
 [![](https://skillicons.dev/icons?i=c,cpp,py,html,css,tailwind,java,js,php,mysql,github,vscode,pycharm,idea,eclipse,windows,apple,linux,blender,arduino,ps,pr,au,ai&perline=12)](https://github.com/armanhossen-dev)   
 <!-- gcp,figma,ts,react,nodejs -->
 [![vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge)![Sublime Text](https://img.shields.io/badge/Sublime%20Text-ff9801?style=for-the-badge&-text&)![Canva](https://img.shields.io/badge/Canva-0bb0c9?style=for-the-badge)![Safari](https://img.shields.io/badge/Safari-10aaf6?style=for-the-badge)![Brave](https://img.shields.io/badge/Brave%20Browser-ff2600?style=for-the-badge)![Tor Browser](https://img.shields.io/badge/Tor%20Browser-59316b?style=for-the-badge&-Browser&)![Duckduckgo](https://img.shields.io/badge/DuckDuckGo-f05f2b?style=for-the-badge)](https://github.com/armanhossen-dev)   
+
+## AI Playground
+
+### Daily Use
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge)](https://chatgpt.com)
 [![Claude](https://img.shields.io/badge/Claude-d97757?style=for-the-badge)](https://claude.com/)
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-ba6b93?style=for-the-badge)](https://gemini.google.com/app)
 [![DeepSeek](https://img.shields.io/badge/DeepSeek-5686fe?style=for-the-badge)](https://www.deepseek.com/en/)
 
-## AI Playground
-
+### Experimental
 [![MonkeyCode AI](https://img.shields.io/badge/MonkeyCode%20AI-1E1E2E?style=for-the-badge&logoColor=white)](https://monkeycode-ai.net/console/tasks)
 [![Genspark AI](https://img.shields.io/badge/Genspark%20AI-6C5CE7?style=for-the-badge&logoColor=white)](https://www.genspark.ai/)
-[![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge)](https://openai.com/codex)
 [![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)](https://cursor.com)
-[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-8957E5?style=for-the-badge)](https://github.com/features/copilot)
-[![Codeium](https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge)](https://codeium.com)
 [![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge)](https://replit.com)
-[![Tabnine](https://img.shields.io/badge/Tabnine-FF6B00?style=for-the-badge)](https://www.tabnine.com)
-[![Amazon Q](https://img.shields.io/badge/Amazon%20Q-FF9900?style=for-the-badge)](https://aws.amazon.com/q/)
-[![Sourcegraph](https://img.shields.io/badge/Sourcegraph-00B4F0?style=for-the-badge)](https://sourcegraph.com)
 [![Aider](https://img.shields.io/badge/Aider-0079BE?style=for-the-badge)](https://aider.chat)
 [![Bolt.new](https://img.shields.io/badge/Bolt.new-8A2BE2?style=for-the-badge)](https://bolt.new)
 [![v0.dev](https://img.shields.io/badge/v0.dev-000000?style=for-the-badge)](https://v0.dev)
 [![Blackbox AI](https://img.shields.io/badge/Blackbox%20AI-121212?style=for-the-badge)](https://www.blackbox.ai)
 [![Perplexity](https://img.shields.io/badge/Perplexity-20B8CD?style=for-the-badge)](https://www.perplexity.ai)
-[![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge)](https://mistral.ai)
 [![Llama](https://img.shields.io/badge/LLaMA-FF7000?style=for-the-badge)](https://llama.meta.com)
-[![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)](https://groq.com)
 [![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)](https://ollama.com)
 [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge)](https://huggingface.co)
-[![Cohere](https://img.shields.io/badge/Cohere-39594D?style=for-the-badge)](https://cohere.com)
+
 
 ## GitHub Activity    
 
