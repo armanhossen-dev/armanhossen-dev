@@ -1,4 +1,4 @@
-## `$ whoami`
+# `$ whoami`
 ```js
 const whoami = {
   name: "Arman Hossen Ripon",
