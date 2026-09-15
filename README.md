@@ -36,7 +36,8 @@ const whoami = {
 | 5 | **AHRN Portfolio** — Personal site | ![S](https://img.shields.io/badge/S-39d353?style=for-the-badge) | Portfolio | HTML, CSS, JS | [Live](https://www.armanhossen.is-a.dev) | — |
 | 6 | **Asha Bank** — Banking app | ![A](https://img.shields.io/badge/A-0366D6?style=for-the-badge) | Full-Stack | PHP, MySQL, JS | — | [Code](https://github.com/armanhossen-dev/BMS) |
 | 7 | **StudentNest** — Housing app | ![A](https://img.shields.io/badge/A-0366D6?style=for-the-badge) | Desktop App | Java, JavaFX | — | [Code](https://github.com/armanhossen-dev/StudentNest) |
-| 8 | **Side Skills** — Tools, insights, assets | ![S](https://img.shields.io/badge/S-39d353?style=for-the-badge) | Bookmark / Resource Hub | HTML, CSS, JS | [Live](https://side-skills.vercel.app/) | — |      
+| 8 | **Side Skills** — Tools, insights, assets | ![S](https://img.shields.io/badge/S-39d353?style=for-the-badge) | Bookmark / Resource Hub | HTML, CSS, JS | [Live](https://side-skills.vercel.app/) | — |    
+| 9 | **IrrigaTech** — Smart irrigation app | ![S](https://img.shields.io/badge/S-39d353?style=for-the-badge) | Mobile App | Kotlin, Android | — | [Code](https://github.com/armanhossen-dev/IrrigaTech) |
 
      
 ## Competitive Programming ❤️‍🩹
