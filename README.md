@@ -6,7 +6,7 @@ const whoami = {
   role: "CSE Undergrad @ Daffodil International University",
   graduation: "2028",
   focus: ["DSA", "Backend Development", "AI/ML Fundamentals"],
-  handsOn: ["C", "C++", "Java", "JavaScript", "Python", "PHP", "MySQL", "Tailwind"],
+  handsOn: ["C", "C++", "Java", "JavaScript", "Python", "PHP", "MySQL", "Tailwind", "Kotlin"],
 };
 ```
 
