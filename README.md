@@ -12,7 +12,7 @@ const whoami = {
 
 ## Languages, Frameworks & Tools  
 
-[![](https://skillicons.dev/icons?i=c,cpp,py,html,css,tailwind,java,js,php,mysql,github,vscode,pycharm,idea,eclipse,windows,apple,linux,blender,arduino,ps,pr,au,ai&perline=12)](https://github.com/armanhossen-dev)   
+[![](https://skillicons.dev/icons?i=c,cpp,py,html,css,tailwind,java,js,php,mysql,github,vscode,pycharm,idea,eclipse,windows,apple,linux,blender,arduino,ps,pr,au,ai,androidstudio,arduino,ubuntu&perline=12)](https://github.com/armanhossen-dev)   
 <!-- gcp,figma,ts,react,nodejs -->
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge)](https://vercel.com/)
 [![Canva](https://img.shields.io/badge/Canva-0bb0c9?style=for-the-badge)](https://www.canva.com/)
