@@ -14,8 +14,17 @@ const whoami = {
 
 [![](https://skillicons.dev/icons?i=c,cpp,py,html,css,tailwind,java,js,php,mysql,github,vscode,pycharm,idea,eclipse,windows,apple,linux,blender,arduino,ps,pr,au,ai&perline=12)](https://github.com/armanhossen-dev)   
 <!-- gcp,figma,ts,react,nodejs -->
-[![vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge)![Sublime Text](https://img.shields.io/badge/Sublime%20Text-ff9801?style=for-the-badge&-text&)![Canva](https://img.shields.io/badge/Canva-0bb0c9?style=for-the-badge)![Safari](https://img.shields.io/badge/Safari-10aaf6?style=for-the-badge)![Brave](https://img.shields.io/badge/Brave-ff2600?style=for-the-badge)![Tor](https://img.shields.io/badge/Tor-59316b?style=for-the-badge&-Browser&)![Duckduckgo](https://img.shields.io/badge/DuckDuckGo-f05f2b?style=for-the-badge)](https://github.com/armanhossen-dev)[![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge)](https://chatgpt.com)[![Claude](https://img.shields.io/badge/Claude-d97757?style=for-the-badge)](https://claude.com/)[![Gemini](https://img.shields.io/badge/Gemini-ba6b93?style=for-the-badge)](https://gemini.google.com/app)[![DeepSeek](https://img.shields.io/badge/DeepSeek-5686fe?style=for-the-badge)](https://www.deepseek.com/en/)[![MonkeyCode](https://img.shields.io/badge/MonkeyCode%20AI-438154?style=for-the-badge&logoColor=white)](https://monkeycode-ai.net/console/tasks)[![Genspark AI](https://img.shields.io/badge/Genspark%20AI-6C5CE7?style=for-the-badge&logoColor=white)](https://www.genspark.ai/)[![Cursor](https://img.shields.io/badge/Cursor-14120b?style=for-the-badge)](https://cursor.com)[![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge)](https://replit.com)[![Blackbox](https://img.shields.io/badge/Blackbox%20AI-e76004?style=for-the-badge)](https://www.blackbox.ai)[![Ollama](https://img.shields.io/badge/Ollama-ffffff?style=for-the-badge)](https://ollama.com)[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-ffd21e?style=for-the-badge)](https://huggingface.co)
-
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge)](https://vercel.com/)
+[![Canva](https://img.shields.io/badge/Canva-0bb0c9?style=for-the-badge)](https://www.canva.com/)
+[![Brave](https://img.shields.io/badge/Brave-ff2600?style=for-the-badge)](https://brave.com/)
+[![Tor](https://img.shields.io/badge/Tor%20Browser-59316b?style=for-the-badge)](https://www.torproject.org/)
+[![Claude](https://img.shields.io/badge/Claude-d97757?style=for-the-badge)](https://claude.com/)
+[![Gemini](https://img.shields.io/badge/Gemini-ba6b93?style=for-the-badge)](https://gemini.google.com/app)
+[![MonkeyCode](https://img.shields.io/badge/MonkeyCode%20AI-438154?style=for-the-badge&logoColor=white)](https://monkeycode-ai.net/console/tasks)
+[![Antigravity](https://img.shields.io/badge/Antigravity-1a73e8?style=for-the-badge&logoColor=white)](https://antigravity.google/)
+<!--
+[![Cursor](https://img.shields.io/badge/Cursor-14120b?style=for-the-badge)](https://cursor.com/)
+-->
 
 ## GitHub Activity    
 
