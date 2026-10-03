@@ -22,9 +22,7 @@ const whoami = {
 [![Gemini](https://img.shields.io/badge/Gemini-ba6b93?style=for-the-badge)](https://gemini.google.com/app)
 [![MonkeyCode](https://img.shields.io/badge/MonkeyCode%20AI-438154?style=for-the-badge&logoColor=white)](https://monkeycode-ai.net/console/tasks)
 [![Antigravity](https://img.shields.io/badge/Antigravity-1a73e8?style=for-the-badge&logoColor=white)](https://antigravity.google/)
-<!--
-[![Cursor](https://img.shields.io/badge/Cursor-14120b?style=for-the-badge)](https://cursor.com/)
--->
+
 
 ## GitHub Activity    
 
